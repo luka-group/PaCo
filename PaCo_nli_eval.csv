@@ -1,0 +1,1056 @@
+context,question,label
+A person is looking for accuracy.,A person typically desires accurate results.,1
+A person does not care for accuracy.,A person typically desires accurate results.,0
+The person double checks their data.,A person typically desires accurate results.,1
+The person speeds through the experiment.,A person typically desires accurate results.,0
+A person is studying well.,A person typically desires accurate results.,1
+A person is doing calculations wrongly.,A person typically desires accurate results.,0
+You have dropped out.,Receiving degree are typically used for storing record.,0
+You skipped school.,Receiving degree are typically used for storing record.,0
+You have graduated.,Receiving degree are typically used for storing record.,1
+You finished college.,Receiving degree are typically used for storing record.,1
+People see through lies.,People can typically be used by other people lying.,0
+True people rarely lie.,People can typically be used by other people lying.,0
+People are deceived.,People can typically be used by other people lying.,1
+They can lie to hide fact.,People can typically be used by other people lying.,1
+You fence violently.,Fencing are typically used in developing discipline.,0
+You skip practice.,Fencing are typically used in developing discipline.,0
+You practice fencing a lot.,Fencing are typically used in developing discipline.,1
+You attend practice.,Fencing are typically used in developing discipline.,1
+The person was a skydriver.,A person typically desire sky dive.,1
+The person hate to skydriving.,A person typically desire sky dive.,0
+A person got full costume and rope control with trainer.,A person typically desire sky dive.,1
+A person is elder and unfit to dive.,A person typically desire sky dive.,0
+The person is in an adventurous mood .,A person typically desire sky dive.,1
+The person feels sick.,A person typically desire sky dive.,0
+The person is given publicity.,A person typically desire fame and fortune.,1
+The person lacks talent and beauty.,A person typically desire fame and fortune.,0
+The person sells a bestselling book.,A person typically desire fame and fortune.,1
+The person is lazy and has no talents.,A person typically desire fame and fortune.,0
+A person need money.,A person typically desire fame and fortune.,1
+A person is blind.,A person typically desire fame and fortune.,0
+There is no fault on the part of the offender.,Deciding criminal s fate typically causes injust ruling.,0
+After committing the crime.,Deciding criminal s fate typically causes injust ruling.,1
+The person is guilty.,Deciding criminal s fate typically causes injust ruling.,0
+The criminal is innocent.,Deciding criminal s fate typically causes injust ruling.,1
+A person like fullfil.,A person typically desires complemented.,1
+The person is generous.,A person typically desires complemented.,1
+The person is selfish.,A person typically desires complemented.,0
+Humans have a goal.,Humans typically does desire to work hard.,1
+Humans have good physical  and mental strength.,Humans typically does desire to work hard.,1
+Humans get sick and depressed.,Humans typically does desire to work hard.,0
+The person is being watched at work.,Humans typically does desire to work hard.,1
+The person is being pushed too hard.,Humans typically does desire to work hard.,0
+The person goes to a pet store.,A person typically desire turtle.,1
+There person is allergic to turtles. .,A person typically desire turtle.,0
+The window shade is closed.,Train window are typically used to look at countryside.,0
+The window is blocked.,Train window are typically used to look at countryside.,0
+The train windows are closed.,Train window are typically used to look at countryside.,0
+You are sitting next to the window.,Train window are typically used to look at countryside.,1
+The train is moving through the contryside.,Train window are typically used to look at countryside.,1
+The train is in the countryside.,Train window are typically used to look at countryside.,1
+A person feels the urge to run.,A person typically desires run sometimes.,1
+The person cares about physical fitness.,A person typically desires run sometimes.,1
+The legs of the person are broken.,A person typically desires run sometimes.,0
+The person wants to be healthy.,A person typically desires run sometimes.,1
+The person wants to watch television.,A person typically desires run sometimes.,0
+Nick is an adult stage.,Nick typically desire sex.,1
+Nick is a child.,Nick typically desire sex.,0
+Nick looking for girlfriend.,Nick typically desire sex.,1
+Nick is an introvert.,Nick typically desire sex.,0
+Nick is talking to girls at a bar.,Nick typically desire sex.,1
+Nick is abstinent.,Nick typically desire sex.,0
+The announcement is a secret.,Going public are typically used for making announcement.,0
+You are alone.,Going public are typically used for making announcement.,0
+The public is not interested enough in the message to listen.,Going public are typically used for making announcement.,0
+There is an audience.,Going public are typically used for making announcement.,1
+The press is watching you.,Going public are typically used for making announcement.,1
+There exists a platform by which the individual may go public.,Going public are typically used for making announcement.,1
+Chess game is abandoned in middle.,Playing chess typically cause winning or losing.,0
+Chess game is completed.,Playing chess typically cause winning or losing.,1
+There is no chess board.,Playing chess typically cause winning or losing.,0
+The human brain is functioning.,Playing chess typically cause winning or losing.,1
+The outcome of playing chess is going to be draw as both the contestants are competing each other.,Playing chess typically cause winning or losing.,0
+The outcome of playing chess is unavoidable for both of the contestants.,Playing chess typically cause winning or losing.,1
+The persons wife is attractive.,A person typically has desire for hot wife.,1
+The wife is ugly.,A person typically has desire for hot wife.,0
+A person love wife .,A person typically has desire for hot wife.,1
+The person finds a hot woman who loves them.,A person typically has desire for hot wife.,1
+The person knows only ugly women.,A person typically has desire for hot wife.,0
+You like familiar things.,Seeing new are typically used for fun.,0
+You enjoy new things.,Seeing new are typically used for fun.,1
+A person is normal.,A person typically desires talk to interesting person.,1
+A person is mouthy.,A person typically desires talk to interesting person.,1
+A person is moody.,A person typically desires talk to interesting person.,0
+A person is around talkative people.,A person typically desires talk to interesting person.,1
+A person hates to talk.,A person typically desires talk to interesting person.,0
+A person is looking for empathy.,A person typically desire appropiate empathy.,1
+A person is not looking for empathy.,A person typically desire appropiate empathy.,0
+A person is hedonistic.,A person wants typically desires health happiness and freedom.,1
+A person is unhygienic.,A person wants typically desires health happiness and freedom.,0
+The person has a positive mindset .,A person wants typically desires health happiness and freedom.,1
+The person has negative mindset and thinks negatively .,A person wants typically desires health happiness and freedom.,0
+A person is happy and free.,A person wants typically desires health happiness and freedom.,1
+A person is depressed.,A person wants typically desires health happiness and freedom.,0
+You are eating a unnatural diet.,Eating healthily are typically used for increasing strength.,0
+"You can only afford cheap, unhealthy food.",Eating healthily are typically used for increasing strength.,0
+You want a good health.,Eating healthily are typically used for increasing strength.,1
+You have the money to buy healthy food.,Eating healthily are typically used for increasing strength.,1
+You eat a lot of protein.,Eating healthily are typically used for increasing strength.,1
+The person has a single drink.,Drinking alcoholic beverages typically cause bad judgement.,0
+The person drinks too much.,Drinking alcoholic beverages typically cause bad judgement.,1
+Drinking alcoholic beverages and sleeping.,Drinking alcoholic beverages typically cause bad judgement.,0
+It comes to addiction.,Drinking alcoholic beverages typically cause bad judgement.,1
+A person like nature .,A person typically desires see falling star.,1
+The person is outside at night.,A person typically desires see falling star.,1
+The person is blind.,A person typically desires see falling star.,0
+A person is in space.,A person typically desires see falling star.,1
+A person is not looking sky.,A person typically desires see falling star.,0
+The letter is written in a language that is unknown to the reader.,Reading letter typically causes finding out news.,0
+The person who wrote the letter has clearly described the news.,Reading letter typically causes finding out news.,1
+The letter slot is locked shut.,Letter slot are typically used for letters.,0
+The letter is too thick.,Letter slot are typically used for letters.,0
+You use email.,Letter slot are typically used for letters.,0
+The mailman delivers letters.,Letter slot are typically used for letters.,1
+The slot is big enough.,Letter slot are typically used for letters.,1
+You are mailing out letter.,Letter slot are typically used for letters.,1
+A person wants to see a volcanic eruption.,A person typically desire volcanic eruptions.,1
+A person who lives near volcano.,A person typically desire volcanic eruptions.,1
+Volcano not around the person.,A person typically desire volcanic eruptions.,0
+The person feels happy seeing the visual of volcano eruption  .,A person typically desire volcanic eruptions.,1
+The person is afraid of natural disasters .,A person typically desire volcanic eruptions.,0
+Without a drink.,Getting drunk typically cause forgetfulness.,0
+Drinking too much.,Getting drunk typically cause forgetfulness.,1
+You only have one drink.,Getting drunk typically cause forgetfulness.,0
+You drink too much.,Getting drunk typically cause forgetfulness.,1
+You used a permanent marker.,Eraser can typically be used for making mark disappear.,0
+You used a pen.,Eraser can typically be used for making mark disappear.,0
+You have marked in ink.,Eraser can typically be used for making mark disappear.,0
+You have written on a board.,Eraser can typically be used for making mark disappear.,1
+You use temporary ink like a pencil.,Eraser can typically be used for making mark disappear.,1
+You have marked in pencil.,Eraser can typically be used for making mark disappear.,1
+A person wants to have fun.,A person typically do desire to have fun in life.,1
+The person is fun loving .,A person typically do desire to have fun in life.,1
+The person is depressed and hates to have fun .,A person typically do desire to have fun in life.,0
+The person is happy and a fun lover.,A person typically do desire to have fun in life.,1
+The person has lost his wife.,A person typically do desire to have fun in life.,0
+The kettle has rusted out.,Kettle are typically used to hold.,0
+The kettle has a hole in the bottom.,Kettle are typically used to hold.,0
+The water is in the kettle.,Kettle are typically used to hold.,1
+The kettle has something inside.,Kettle are typically used to hold.,1
+A person and another persons are known or willing to make known.,A person typically do desire to meet other persons.,1
+A person and other person are busy to meet.,A person typically do desire to meet other persons.,0
+The person keep his friends.,A person typically do desire to meet other persons.,1
+The person have many friends.,A person typically do desire to meet other persons.,0
+The person is at a wedding.,A person typically do desire to meet other persons.,1
+The person is alone at home.,A person typically do desire to meet other persons.,0
+The cars have the right of way.,Crossing street typically cause traffic to stop.,0
+The light turns red for the cars.,Crossing street typically cause traffic to stop.,1
+The person has warmed up.,Running marathon typically causes injury.,0
+The person is running too fast.,Running marathon typically causes injury.,1
+The door to the room is locked.,Room are typically used to hold meeting.,0
+You have to  oraganise a large meeting.,Room are typically used to hold meeting.,0
+You are unemployed.,Room are typically used to hold meeting.,0
+The people are in room.,Room are typically used to hold meeting.,1
+You have to discuss something important.,Room are typically used to hold meeting.,1
+You have a job.,Room are typically used to hold meeting.,1
+A cat actually likes you.,Cat typically desire nothing to do with.,0
+The person is unsatisfied with what he has and wishes to have more.,A person typically desire sucessful.,1
+The person feels he has everything and there is nothing left for him to achieve .,A person typically desire sucessful.,0
+The person works smart and utilise the available opportunities.,A person typically desire sucessful.,1
+The person lacks compassion and calmness.,A person typically desire sucessful.,0
+The person is not satisfied with what he has and wishes to have more.,A person typically desire sucessful.,1
+The tablespoon is dirty.,Tablespoon can typically be used for serving food.,0
+You are just eatting bread.,Tablespoon can typically be used for serving food.,0
+She serves salad.,Tablespoon can typically be used for serving food.,0
+The tablespoon is clean.,Tablespoon can typically be used for serving food.,1
+You need to measure out the oil for the dish.,Tablespoon can typically be used for serving food.,1
+He serves soup.,Tablespoon can typically be used for serving food.,1
+Your internet connection is disconnected.,Sending e mail can typically be used for chatting.,0
+You lose your internet connection.,Sending e mail can typically be used for chatting.,0
+Your computer is offline.,Sending e mail can typically be used for chatting.,0
+Your internet connection is working.,Sending e mail can typically be used for chatting.,1
+You have a computer.,Sending e mail can typically be used for chatting.,1
+You have internet.,Sending e mail can typically be used for chatting.,1
+A person should respect each other.,A person typically desire live with respect.,1
+A person who has arrogant behavior.,A person typically desire live with respect.,0
+A person has good self esteem and feels like respect is deserved.,A person typically desire live with respect.,1
+A person lives honestly.,A person typically desire live with respect.,1
+A person lies most to others.,A person typically desire live with respect.,0
+You already maintain a healthy well balanced diet.,Making sure re healthy typically cause to change diet.,0
+You need to eat more healthy foods daily.,Making sure re healthy typically cause to change diet.,1
+Door has good lock.,Debit card can typically be used for breaking in through locked doors.,0
+If i have to credit card.,Debit card can typically be used for breaking in through locked doors.,0
+Door is locked poorly.,Debit card can typically be used for breaking in through locked doors.,1
+I have debit card.,Debit card can typically be used for breaking in through locked doors.,1
+A person is in learning stage of reading.,A person typically do desire to know how to read.,1
+A person hates reading.,A person typically do desire to know how to read.,0
+A person cares to know how to read.,A person typically do desire to know how to read.,1
+They are expired.,Citalopram are typically used for treating ocd.,0
+You are undiagnosed.,Citalopram are typically used for treating ocd.,0
+You are allergic to citalopram.,Citalopram are typically used for treating ocd.,0
+A person with ocd takes them.,Citalopram are typically used for treating ocd.,1
+You are diagnosed with ocd.,Citalopram are typically used for treating ocd.,1
+Doctors write a perscription.,Citalopram are typically used for treating ocd.,1
+The store is closed.,Aisle can typically be used for showing goods.,0
+You are in a open market.,Aisle can typically be used for showing goods.,0
+The shoppers have bought all the goods.,Aisle can typically be used for showing goods.,0
+The store is open.,Aisle can typically be used for showing goods.,1
+You are in shopping centre.,Aisle can typically be used for showing goods.,1
+There are shelves in the aisle.,Aisle can typically be used for showing goods.,1
+Keeping track of credit card spending and timely payment of dues.,Paying by credit card typically cause extensive accumulated debt.,0
+Credit card payments are made after the deadline time.,Paying by credit card typically cause extensive accumulated debt.,1
+Your bills are already paid.,Bill file can typically be used to file bills.,0
+You lose your job.,Bill file can typically be used to file bills.,0
+The person does not have any bills.,Bill file can typically be used to file bills.,0
+You have bills to pay.,Bill file can typically be used to file bills.,1
+You have the money to pay bills.,Bill file can typically be used to file bills.,1
+There are bills that must be paid regularly.,Bill file can typically be used to file bills.,1
+Usa good deal with middle east.,Usa typically desire nuke middle east.,1
+The usa sees fit to nuke the middle east.,Usa typically desire nuke middle east.,1
+The usa uses propaganda to cover the nukes.,Usa typically desire nuke middle east.,1
+A person is rich.,A person typically have desire for eating every day.,1
+A person is poor.,A person typically have desire for eating every day.,0
+A person is hungry.,A person typically have desire for eating every day.,1
+The person is a working citizen.,A person typically have desire for eating every day.,1
+The person is living in poverty.,A person typically have desire for eating every day.,0
+Painting is too large for room.,Painting are typically used for decorating.,0
+You are out of paint.,Painting are typically used for decorating.,0
+The paint is unaffordable.,Painting are typically used for decorating.,0
+Painting fits on wall.,Painting are typically used for decorating.,1
+You have a paintbrush.,Painting are typically used for decorating.,1
+You are a gifted artist.,Painting are typically used for decorating.,1
+Material is already known.,Taking midterm typically cause panic.,0
+Material is hard to learn.,Taking midterm typically cause panic.,1
+A person has good spouse.,A person typically has desire for support from spouse.,1
+A person has get lack of faith from spouse.,A person typically has desire for support from spouse.,0
+The person asks their spouse for support.,A person typically has desire for support from spouse.,1
+The person is widowed.,A person typically has desire for support from spouse.,0
+A person has understandable spouse.,A person typically has desire for support from spouse.,1
+A person has misunderstanding with his spouse.,A person typically has desire for support from spouse.,0
+Customers use adblock.,Advertisement is typically used for promoting business.,0
+The business is closed.,Advertisement is typically used for promoting business.,0
+You sell your business.,Advertisement is typically used for promoting business.,0
+You pay for an advertisement.,Advertisement is typically used for promoting business.,1
+The business is open.,Advertisement is typically used for promoting business.,1
+You have a billboard.,Advertisement is typically used for promoting business.,1
+A person is living an imbalanced life.,Accountant typically desire balance.,1
+A person is already living a balanced life.,Accountant typically desire balance.,0
+If the customer gives commission.,Accountant typically desire balance.,1
+Inspection in the office.,Accountant typically desire balance.,0
+A person is balanced.,Accountant typically desire balance.,1
+A person is imbalanced.,Accountant typically desire balance.,0
+The movie is funny.,Watching movie typically cause fear.,0
+The movie is scary.,Watching movie typically cause fear.,1
+Your heart is healthy.,Exercising typically cause heart attacks.,0
+Your heart is in bad health.,Exercising typically cause heart attacks.,1
+You are out of shape.,Running in marathon are typically used for reaching goal.,0
+We have no legs.,Running in marathon are typically used for reaching goal.,0
+You have been working out.,Running in marathon are typically used for reaching goal.,1
+You are fit and exercise.,Running in marathon are typically used for reaching goal.,1
+We participate in marathon.,Running in marathon are typically used for reaching goal.,1
+The person forgets the oath.,Taking oath typically cause being held to promise.,0
+The person is taking oath on jan first.,Taking oath typically cause being held to promise.,1
+Pavement has a pot hole.,Pavement can typically be used for avoiding falls.,0
+You are paying attention to street.,Pavement can typically be used for avoiding falls.,1
+A person is having kite and standing in the terrace.,A person typically desires fly kite.,1
+A person is inside the house.,A person typically desires fly kite.,0
+The person likes to fly kite.,A person typically desires fly kite.,1
+The person do not know about kites.,A person typically desires fly kite.,0
+The climate is windy.,A person typically desires fly kite.,1
+The person is busy with work.,A person typically desires fly kite.,0
+The computer is turned off.,Computer is typically used for collecting and analyzing information.,0
+Your computer is off.,Computer is typically used for collecting and analyzing information.,0
+The power has gone out.,Computer is typically used for collecting and analyzing information.,0
+The computer is running.,Computer is typically used for collecting and analyzing information.,1
+Your computer is connected to network.,Computer is typically used for collecting and analyzing information.,1
+You have electricity.,Computer is typically used for collecting and analyzing information.,1
+Enjoying some kind of film genres.,Enjoying film typically cause get happy.,0
+Enjoying a film made with all entertainment oriented concepts.,Enjoying film typically cause get happy.,1
+If it is sunny.,A person typically do desire to fly kites in springtime.,1
+If it is windy.,A person typically do desire to fly kites in springtime.,0
+A person is in terrace with kite.,A person typically do desire to fly kites in springtime.,1
+A person is bad mood.,A person typically do desire to fly kites in springtime.,0
+The weather is sunny and skies are clear.,A person typically do desire to fly kites in springtime.,1
+The weather is raining and windy.,A person typically do desire to fly kites in springtime.,0
+The person is brave.,A person typically desires venture into world.,1
+The person is coward.,A person typically desires venture into world.,0
+A person seen difficult situation .,A person typically desires venture into world.,1
+A person seen difficult situation .,A person typically desires venture into world.,0
+You listen to music as singles.,Album can typically be used to reproduce music.,0
+The needle on the record player is dull.,Album can typically be used to reproduce music.,0
+You try to sell your albums.,Album can typically be used to reproduce music.,0
+You are a musician.,Album can typically be used to reproduce music.,1
+You have a record player.,Album can typically be used to reproduce music.,1
+You put a cd in your computer to burn a album.,Album can typically be used to reproduce music.,1
+A person really likes their friend.,A person typically desire picture of friend.,1
+A person does not really like their friend.,A person typically desire picture of friend.,0
+The person misses their friend.,A person typically desire picture of friend.,1
+The person hates their friend.,A person typically desire picture of friend.,0
+A person likes his friend verymuch.,A person typically desire picture of friend.,1
+A person is cheated by his friend.,A person typically desire picture of friend.,0
+Horses get allergy.,Horses typically desires scratch each other.,1
+Horses are in quarrel mood.,Horses typically desires scratch each other.,1
+Horses are in separated location.,Horses typically desires scratch each other.,0
+Each horses are friends.,Horses typically desires scratch each other.,1
+If the horse is tied.,Horses typically desires scratch each other.,0
+A person is optimistic.,A person typically desire honor individuality in others.,1
+A person has lack of self worth.,A person typically desire honor individuality in others.,0
+A person knows respect.,A person typically desire honor individuality in others.,1
+If a person is selfish.,A person typically desire honor individuality in others.,0
+The person passed by the fastfood corner.,A person typically desires hamburgers.,1
+The person run out of time for an interview.,A person typically desires hamburgers.,0
+The person is at a fast food place.,A person typically desires hamburgers.,1
+The person is on a diet.,A person typically desires hamburgers.,0
+A person likes hamburgers.,A person typically desires hamburgers.,1
+A person dislikes hamburgers.,A person typically desires hamburgers.,0
+You pass out from sweating.,Getting exercise are typically used for having fun.,0
+The person exercising hates doing it.,Getting exercise are typically used for having fun.,0
+You are out of shape and hate exercise.,Getting exercise are typically used for having fun.,0
+You join a gym with friends.,Getting exercise are typically used for having fun.,1
+The individual really enjoys exercise.,Getting exercise are typically used for having fun.,1
+You are athletic.,Getting exercise are typically used for having fun.,1
+The person is laughing.,Committing murder typically cause problems.,0
+The person is angry.,Committing murder typically cause problems.,1
+The person sees a baby.,A person typically do desire for baby to smile.,1
+The person hates babies.,A person typically do desire for baby to smile.,0
+The person has a baby.,A person typically do desire for baby to smile.,1
+The person do not have a baby.,A person typically do desire for baby to smile.,0
+The baby is happy.,A person typically do desire for baby to smile.,1
+The baby is unhappy.,A person typically do desire for baby to smile.,0
+The person going to work.,Opening business typically causes debt.,0
+There is no money.,Opening business typically causes debt.,1
+The business man starts the business with his own funds without loans.,Opening business typically causes debt.,0
+The business takes time to pick up and boost sales.,Opening business typically causes debt.,1
+A person like sleep.,A person typically do desire clean clean bedding.,1
+The person can clean the bedding.,A person typically do desire clean clean bedding.,1
+A person washes his sheets.,A person typically do desire clean clean bedding.,1
+A person is unable to wash his sheets.,A person typically do desire clean clean bedding.,0
+The person is lonely. .,A person typically desires feel connected to others.,1
+The person has a tight knit family. .,A person typically desires feel connected to others.,0
+The person is happy.,A person typically desires feel connected to others.,1
+The person is talktive.,A person typically desires feel connected to others.,0
+A person is alone.,A person typically desires feel connected to others.,1
+If a person interested on books .,A person typically desires feel connected to others.,0
+The person pays the credit card on time.,Paying by credit card typically cause big dept.,0
+The items are expensive.,Paying by credit card typically cause big dept.,1
+Air quality is good.,A person typically do desire to breathe fresh air.,1
+Air quality is bad.,A person typically do desire to breathe fresh air.,0
+A person done yoga daily.,A person typically do desire to breathe fresh air.,1
+If a person woke up late in the morning.,A person typically do desire to breathe fresh air.,0
+The air outside is clean.,A person typically do desire to breathe fresh air.,1
+The air outside is polluted.,A person typically do desire to breathe fresh air.,0
+You are at home.,Hearing testimony can typically be used in courtroom settings.,0
+The case is solved.,Hearing testimony can typically be used in courtroom settings.,0
+The dispute is heard by an arbitrator.,Hearing testimony can typically be used in courtroom settings.,0
+You are present in a courtroom.,Hearing testimony can typically be used in courtroom settings.,1
+There is a witness.,Hearing testimony can typically be used in courtroom settings.,1
+The trial has a jury.,Hearing testimony can typically be used in courtroom settings.,1
+Dogs and children like cardboard.,Dogs and children typically desires play in cardboard box.,1
+If carboard boxes arent available.,Dogs and children typically desires play in cardboard box.,0
+Childrens are playfull.,Dogs and children typically desires play in cardboard box.,1
+People like watching childrens and dogs.,Dogs and children typically desires play in cardboard box.,0
+You think you are better than you are.,Improving yourself typically cause arrogance.,1
+The person after improvement follows a humble path.,Improving yourself typically cause arrogance.,0
+The person falls under the influence of egoism after the improvement.,Improving yourself typically cause arrogance.,1
+A person is in lunch time.,A person typically desires eat lunch.,1
+A person is busy at work.,A person typically desires eat lunch.,0
+The person is hungry.,A person typically desires eat lunch.,1
+It is too early for lunch.,A person typically desires eat lunch.,0
+If a person is hungry.,A person typically desires eat lunch.,1
+The person already ate.,A person typically desires eat lunch.,0
+Both parties are std free .,Sex typically cause venerial decease.,0
+You have unprotected intercouse.,Sex typically cause venerial decease.,1
+There is no family.,Starting family typically cause birth of children.,0
+The heir is available.,Starting family typically cause birth of children.,1
+You are too old.,Starting family typically cause birth of children.,0
+You are young.,Starting family typically cause birth of children.,1
+The counter is missing beads.,Counter can typically be used for keeping track of things.,0
+The counter is off.,Counter can typically be used for keeping track of things.,0
+You are careless about your work.,Counter can typically be used for keeping track of things.,0
+You have a basic understanding of numbers.,Counter can typically be used for keeping track of things.,1
+The counter is on.,Counter can typically be used for keeping track of things.,1
+You are in a shop.,Counter can typically be used for keeping track of things.,1
+A person has problems in his life.,A person typically desires cry sometimes.,1
+A person is overloaded with happiness.,A person typically desires cry sometimes.,0
+A person is sad.,A person typically desires cry sometimes.,1
+The person gets hurt.,A person typically desires cry sometimes.,1
+The person has seen too much tragedy.,A person typically desires cry sometimes.,0
+You have been dancing for a minute.,Dancing samba typically cause to get out of breath.,0
+You have been dancing for an hour.,Dancing samba typically cause to get out of breath.,1
+The person is innocent.,Passing sentence can typically be used for sending convicted criminals to prison.,0
+The crime is acquitted.,Passing sentence can typically be used for sending convicted criminals to prison.,0
+The criminal is guilty.,Passing sentence can typically be used for sending convicted criminals to prison.,1
+There is a judge.,Passing sentence can typically be used for sending convicted criminals to prison.,1
+A person is scientist .,A person typically desires create artificial intelligence.,1
+A person is brainless.,A person typically desires create artificial intelligence.,0
+A person like artificial intelligence.,A person typically desires create artificial intelligence.,1
+If a person studies agriculture.,A person typically desires create artificial intelligence.,0
+The person studies computers and ai.,A person typically desires create artificial intelligence.,1
+A person is full of themselves and arrogant.,A person typically desire better than everybody else.,1
+Kind hearted person.,A person typically desire better than everybody else.,1
+A person is selfish.,A person typically desire better than everybody else.,0
+A person is working hard like anything.,A person typically desire better than everybody else.,1
+A person is lazy.,A person typically desire better than everybody else.,0
+Your heart is healthy.,Hospital can typically be used to have heart transplant.,0
+You are a poor person.,Hospital can typically be used to have heart transplant.,0
+The person who needed the transplant has already died.,Hospital can typically be used to have heart transplant.,0
+You have a surgery scheduled.,Hospital can typically be used to have heart transplant.,1
+Your heart is not working well.,Hospital can typically be used to have heart transplant.,1
+There is a heart available for transplant.,Hospital can typically be used to have heart transplant.,1
+The air conditioning is broken.,Air conditioning can typically be used for reducing temperature.,0
+It is very cold .,Air conditioning can typically be used for reducing temperature.,0
+The air conditioner is yours.,Air conditioning can typically be used for reducing temperature.,1
+The air conditioning is turned on.,Air conditioning can typically be used for reducing temperature.,1
+You are feeling extreme hotness.,Air conditioning can typically be used for reducing temperature.,1
+A person like friends .,A person typically desires talk with friends.,1
+A person feels like talking to their friends.,A person typically desires talk with friends.,1
+A person does not feel like talking to their friends.,A person typically desires talk with friends.,0
+The person is friendly by nature.,A person typically desires talk with friends.,1
+The person likes to be alone.,A person typically desires talk with friends.,0
+She is already married.,Proposing to woman can typically be used in marriage.,0
+The woman rejects the proposal.,Proposing to woman can typically be used in marriage.,0
+You are already married.,Proposing to woman can typically be used in marriage.,0
+You have bought a wedding ring.,Proposing to woman can typically be used in marriage.,1
+The woman accepts the proposal.,Proposing to woman can typically be used in marriage.,1
+You have a ring.,Proposing to woman can typically be used in marriage.,1
+You eat at a restaurant.,Dining room table can typically be used to eat dinner on.,0
+She has a puzzle spread out on the dining table.,Dining room table can typically be used to eat dinner on.,0
+I was sleeping.,Dining room table can typically be used to eat dinner on.,0
+You eat at home.,Dining room table can typically be used to eat dinner on.,1
+Family came together for a potluck dinner.,Dining room table can typically be used to eat dinner on.,1
+If i have to eat.,Dining room table can typically be used to eat dinner on.,1
+The person is on holidays.,Writing typically cause hand cramps.,0
+The person writes fast in exams.,Writing typically cause hand cramps.,1
+The rest is interrupted.,Having rest typically cause energy.,0
+You have a well balanced diet.,Having rest typically cause energy.,1
+Having a rest with stress in a crowded place for a short period of time.,Having rest typically cause energy.,0
+Having a good rest after having bath and had a glass of milk.,Having rest typically cause energy.,1
+Working time.,Having rest typically cause energy.,0
+Simply sitting .,Having rest typically cause energy.,1
+You have a breakdown alone in your home.,Having nervous breakdown are typically used for frightening others.,0
+You are relaxed.,Having nervous breakdown are typically used for frightening others.,0
+You are enough confident.,Having nervous breakdown are typically used for frightening others.,0
+You have a breakdown in a public place.,Having nervous breakdown are typically used for frightening others.,1
+You are stressed.,Having nervous breakdown are typically used for frightening others.,1
+You want to make someone fearful.,Having nervous breakdown are typically used for frightening others.,1
+There are moving objects in front of dogs.,Dogs often typically does desire to chase moving objects.,1
+An object moves at a fast pace and the dogs or unleashed.,Dogs often typically does desire to chase moving objects.,1
+The dogs are less motivated and feel insecure.,Dogs often typically does desire to chase moving objects.,0
+The dog sees a moving object.,Dogs often typically does desire to chase moving objects.,1
+The dog is dozing.,Dogs often typically does desire to chase moving objects.,0
+Cat like sleep.,Cat typically have desire to sleep.,1
+Cat not like sleep.,Cat typically have desire to sleep.,0
+Cats sleeps wherever they like.,Cat typically have desire to sleep.,1
+Cats eat fish.,Cat typically have desire to sleep.,0
+Cat is feeling sleepy.,Cat typically have desire to sleep.,1
+Cat sees a mouse.,Cat typically have desire to sleep.,0
+You buy takeout.,Cooking dinner are typically used as way to watch calorie intake.,0
+You use a lot of butter.,Cooking dinner are typically used as way to watch calorie intake.,0
+You are careless.,Cooking dinner are typically used as way to watch calorie intake.,0
+You keep track of what is in your food.,Cooking dinner are typically used as way to watch calorie intake.,1
+You are eating healthy.,Cooking dinner are typically used as way to watch calorie intake.,1
+You follow a diet routine.,Cooking dinner are typically used as way to watch calorie intake.,1
+A person has good friends.,A person typically have desire for loyalty of friends.,1
+A person hates friends.,A person typically have desire for loyalty of friends.,0
+The person has known the friends for a long time.,A person typically have desire for loyalty of friends.,1
+The person consistently betrays their friends.,A person typically have desire for loyalty of friends.,0
+The telephone book has been rained on.,Telephone book can typically be used for telephone numbers.,0
+The telephone book is out of date.,Telephone book can typically be used for telephone numbers.,0
+The telephone book gets wet.,Telephone book can typically be used for telephone numbers.,0
+A telephone book is available next to your telephone.,Telephone book can typically be used for telephone numbers.,1
+The telephone book is up to date.,Telephone book can typically be used for telephone numbers.,1
+You have a current telephone book with up to date numbers.,Telephone book can typically be used for telephone numbers.,1
+It is only tylenol.,Drug typically causes trip.,0
+It is an illegal drug.,Drug typically causes trip.,1
+The person is jogging.,Drug typically causes trip.,0
+The person is addicted.,Drug typically causes trip.,1
+You are out of cotton.,Cotton are typically used for thread.,0
+The cotton crop was bad.,Cotton are typically used for thread.,0
+The cotton is wet.,Cotton are typically used for thread.,0
+You have a spinning machine.,Cotton are typically used for thread.,1
+The cotton has been spun.,Cotton are typically used for thread.,1
+The cotton has been picked.,Cotton are typically used for thread.,1
+There is no soap.,Dirty dishes is typically used for washing.,0
+The dishes are already clean.,Dirty dishes is typically used for washing.,0
+There is water in the sink.,Dirty dishes is typically used for washing.,1
+You have eaten food off of dishes.,Dirty dishes is typically used for washing.,1
+The person works at a daycare.,A person typically do desire to take care of children.,1
+The person is a predator.,A person typically do desire to take care of children.,0
+A person has more children.,A person typically do desire to take care of children.,1
+The person is good with childrens.,A person typically do desire to take care of children.,1
+The person have childrens.,A person typically do desire to take care of children.,0
+You go on vacation to a place you have already been.,Going on vacation are typically used to seeing new place.,0
+You vacation somewhere youve been before.,Going on vacation are typically used to seeing new place.,0
+Vacation is in home country.,Going on vacation are typically used to seeing new place.,0
+Your vacation involves a flight to a new country.,Going on vacation are typically used to seeing new place.,1
+You vacation somewhere new.,Going on vacation are typically used to seeing new place.,1
+Vacation is across the world.,Going on vacation are typically used to seeing new place.,1
+The only assignments for the class are multiple choice exams.,Writing term paper are typically used for passing course.,0
+You fail the course.,Writing term paper are typically used for passing course.,0
+You work for a living.,Writing term paper are typically used for passing course.,0
+You are a good writer and have time to write a great term paper.,Writing term paper are typically used for passing course.,1
+You are in school.,Writing term paper are typically used for passing course.,1
+You are alone.,Bed can typically be used for fucking in.,0
+You are at a beach.,Bed can typically be used for fucking in.,0
+There is one person in the bed.,Bed can typically be used for fucking in.,0
+You and your partner are together.,Bed can typically be used for fucking in.,1
+You are in a bedroom.,Bed can typically be used for fucking in.,1
+There are two people together in the bed.,Bed can typically be used for fucking in.,1
+The person has a lenient boss.,A person typically has desire for day off.,1
+The workplace is short handed.,A person typically has desire for day off.,0
+The person feel tired of work.,A person typically has desire for day off.,1
+The person has hectic job lined up.,A person typically has desire for day off.,0
+The person is playing for fun.,Playing chess typically cause deep concentration.,0
+The person wants to win.,Playing chess typically cause deep concentration.,1
+You have a soft saddle.,Riding horse typically causes soreness.,0
+You are riding for too long.,Riding horse typically causes soreness.,1
+Fish is on hunger.,Fish typically desires eat worms.,1
+Worms are there in the range of a fish.,Fish typically desires eat worms.,1
+Fish is in the pot where there are no worms.,Fish typically desires eat worms.,0
+The worms are in the water.,Fish typically desires eat worms.,1
+The worms are on land.,Fish typically desires eat worms.,0
+A person who has good qualities.,A person typically do desire for sweet things.,1
+A person who has worst behavior.,A person typically do desire for sweet things.,0
+A person wants something sweet.,A person typically do desire for sweet things.,1
+A person does not want something sweet.,A person typically do desire for sweet things.,0
+A person is surrounded by good people.,A person typically do desire for sweet things.,1
+A person is with the hatred people.,A person typically do desire for sweet things.,0
+Andrew has a sexual partner.,Andrew typically desires sex.,1
+Andrew is impotent.,Andrew typically desires sex.,0
+Andrew talks to girls.,Andrew typically desires sex.,1
+Andrew is too shy to talk to others.,Andrew typically desires sex.,0
+The lettuce is out of stock.,Supermarket can typically be used for buying lettuce.,0
+The refrigeration in the store goes out.,Supermarket can typically be used for buying lettuce.,0
+Supermarket is out of lettuce.,Supermarket can typically be used for buying lettuce.,0
+The supermarket stocks lettuce.,Supermarket can typically be used for buying lettuce.,1
+You are shopping for produce.,Supermarket can typically be used for buying lettuce.,1
+Supermarket has lettuce in stock.,Supermarket can typically be used for buying lettuce.,1
+There is a telephone in the house of the person.,People typically does desire to talk on telephones.,1
+There is no access to a telephone for the person.,People typically does desire to talk on telephones.,0
+The telephone bill is paid.,People typically does desire to talk on telephones.,1
+The telephone line is cut.,People typically does desire to talk on telephones.,0
+The telephone is connected to a network.,People typically does desire to talk on telephones.,1
+There is a power outage.,People typically does desire to talk on telephones.,0
+A person like knowledge .,A person typically desire self knowledge.,1
+The person have great knwoldge.,A person typically desire self knowledge.,1
+A person is alone and also in decision making stage in work.,A person typically desire self knowledge.,1
+A person is bad mood for self knowledge.,A person typically desire self knowledge.,0
+The person gives the wrong answers.,Answering questions typically cause appear smart.,0
+The person knows the answers.,Answering questions typically cause appear smart.,1
+Your fingers have been amputated.,Finger are typically used for taking pulse.,0
+The person is dead.,Finger are typically used for taking pulse.,0
+The pulse is too faint to be heard without instrument.,Finger are typically used for taking pulse.,0
+You have fingers available for taking a pulse.,Finger are typically used for taking pulse.,1
+You are alive.,Finger are typically used for taking pulse.,1
+You hold finger against the neck to hear pulse.,Finger are typically used for taking pulse.,1
+A person has lack of confidence and strength.,A person typically desires courage.,1
+A person is strong and bold.,A person typically desires courage.,0
+The person is able to successfully face their fears.,A person typically desires courage.,1
+The person is too scared to go through with anything.,A person typically desires courage.,0
+The person is in a scary situation.,A person typically desires courage.,1
+The person leads a simple life and has only friends around.,A person typically desires courage.,0
+During week ends in between heavy work.,A person typically do desire to spend time with family.,1
+A person failing to give importance to his family.,A person typically do desire to spend time with family.,0
+The person wants to relax.,A person typically do desire to spend time with family.,1
+The person loves family.,A person typically do desire to spend time with family.,0
+The person is in the city they grew up in.,A person typically do desire to spend time with family.,1
+The person lives away from their family.,A person typically do desire to spend time with family.,0
+A person is a teacher.,A person typically do desire to value.,1
+A person is unimportant.,A person typically do desire to value.,0
+The person is polite and sensible.,A person typically do desire to value.,1
+The person is rude and selfish.,A person typically do desire to value.,0
+A person loves cat.,Everybody typically desire cat.,1
+A person is allergy with pets hair.,Everybody typically desire cat.,0
+The person loves pets.,Everybody typically desire cat.,1
+The person is busy in his daily job.,Everybody typically desire cat.,0
+The glass is dirty.,Glass fronted display cabinet can typically be used to show collection.,0
+The glass is covered.,Glass fronted display cabinet can typically be used to show collection.,0
+The glass is broken.,Glass fronted display cabinet can typically be used to show collection.,0
+You keep the glass clean.,Glass fronted display cabinet can typically be used to show collection.,1
+The collection is inside the cabinet.,Glass fronted display cabinet can typically be used to show collection.,1
+You have a collection to show.,Glass fronted display cabinet can typically be used to show collection.,1
+Fencing are fully damaged.,You can typically use fencing for keeping animals on property.,0
+The animals are birds.,You can typically use fencing for keeping animals on property.,0
+The fence is too small.,You can typically use fencing for keeping animals on property.,0
+I have to fencing.,You can typically use fencing for keeping animals on property.,1
+The animals are horses and cows.,You can typically use fencing for keeping animals on property.,1
+The animals are the right size for the fence.,You can typically use fencing for keeping animals on property.,1
+You forgot to pay your electric bill.,Light is typically used as light.,0
+Light source is turned off.,Light is typically used as light.,0
+You have electricity.,Light is typically used as light.,1
+You have light source plugged in.,Light is typically used as light.,1
+The person forget to water.,Weeding garden typically cause beautiful foliage.,0
+Watering plants daily .,Weeding garden typically cause beautiful foliage.,1
+The person is a parent and has children .,A person typically do desire to see children grow independent.,1
+A person like independ.,A person typically do desire to see children grow independent.,1
+A person makes his children do their work by themselves.,A person typically do desire to see children grow independent.,1
+A person is not allowing his children to do their work independently.,A person typically do desire to see children grow independent.,0
+Net has a hole.,Nets are typically used to collect insects.,0
+You are inside.,Nets are typically used to collect insects.,0
+There is a hole in the net.,Nets are typically used to collect insects.,0
+Net is functional.,Nets are typically used to collect insects.,1
+You are outdoors.,Nets are typically used to collect insects.,1
+There are insects in the field.,Nets are typically used to collect insects.,1
+Fire extinguisher is expired.,Fire extinguisher can typically be used to put out fire.,0
+The fire extinguisher has been used up.,Fire extinguisher can typically be used to put out fire.,0
+The fire extinguisher is expired.,Fire extinguisher can typically be used to put out fire.,0
+Fire extinguisher is working.,Fire extinguisher can typically be used to put out fire.,1
+The fire extinguisher is full.,Fire extinguisher can typically be used to put out fire.,1
+There is a fire.,Fire extinguisher can typically be used to put out fire.,1
+The person has a dogproof home.,A person typically has desire for pug.,1
+The person is allergic to dogs.,A person typically has desire for pug.,0
+The person likes dogs.,A person typically has desire for pug.,1
+The person is an animal lover.,A person typically has desire for pug.,1
+The person hates dogs.,A person typically has desire for pug.,0
+A person like beautiful things.,A person typically desire beautiful things to happen.,1
+A person likes beautiful things.,A person typically desire beautiful things to happen.,1
+A person dislike beautiful things.,A person typically desire beautiful things to happen.,0
+Obama is in bad mood in usa.,Obama typically does desire to destroy united states of america.,1
+Obama loves usa.,Obama typically does desire to destroy united states of america.,0
+Obama wants to destroy the united states.,Obama typically does desire to destroy united states of america.,1
+The husband is getting something as well.,Shopping typically causes impatient husbands.,0
+The husband would rather be at home.,Shopping typically causes impatient husbands.,1
+The museum features science artifacts.,Visiting museum typically causes learning about art.,0
+The museum features art.,Visiting museum typically causes learning about art.,1
+The hardware store is closed.,Hardware store can typically be used for playing with stuff.,0
+Hardware store is closed.,Hardware store can typically be used for playing with stuff.,0
+There are fun materials available at the store.,Hardware store can typically be used for playing with stuff.,1
+You have an active imagination.,Hardware store can typically be used for playing with stuff.,1
+The person is single.,Understanding better typically cause peace.,0
+The person is in love with someone .,Understanding better typically cause peace.,1
+Using a vcr device with a videocassette.,Using vcr typically cause tv programme gets recorded.,1
+Using a vcr device without inserting a videocassette.,Using vcr typically cause tv programme gets recorded.,0
+A standing army has not been formed.,Advancing into battle can typically be used by armies.,0
+The country the army belongs to is at peace.,Advancing into battle can typically be used by armies.,0
+You need more supplies.,Advancing into battle can typically be used by armies.,0
+Your countries are at war.,Advancing into battle can typically be used by armies.,1
+The army is at war.,Advancing into battle can typically be used by armies.,1
+The troops are prepared.,Advancing into battle can typically be used by armies.,1
+You have a health condition.,Maintaining good health are typically used for optimal functioning of mind and body.,0
+You eat unhealthy food.,Maintaining good health are typically used for optimal functioning of mind and body.,0
+You do not get out of bed.,Maintaining good health are typically used for optimal functioning of mind and body.,0
+You take care of your body.,Maintaining good health are typically used for optimal functioning of mind and body.,1
+You work out.,Maintaining good health are typically used for optimal functioning of mind and body.,1
+You go for a jog.,Maintaining good health are typically used for optimal functioning of mind and body.,1
+We are in sick.,Staying healthy are typically used for keeping active.,0
+You have a health condition.,Staying healthy are typically used for keeping active.,0
+We eat healthy food.,Staying healthy are typically used for keeping active.,1
+You eat well and exercise.,Staying healthy are typically used for keeping active.,1
+They have good skills.,A person typically desire oral pleasure.,1
+They arent able to suck.,A person typically desire oral pleasure.,0
+The person discusses with their partner.,A person typically desire oral pleasure.,1
+The person has no partner.,A person typically desire oral pleasure.,0
+Cats like catch.,Cats typically does desire to catch birds and other small animals.,1
+Cats find birds and small animals.,Cats typically does desire to catch birds and other small animals.,1
+Cats is inactive.,Cats typically does desire to catch birds and other small animals.,0
+Cats like to eat birds.,Cats typically does desire to catch birds and other small animals.,1
+Cats are tired.,Cats typically does desire to catch birds and other small animals.,0
+The container has a hole in the bottom.,Container can can typically be used for storing flour.,0
+There is a hole in the container.,Container can can typically be used for storing flour.,0
+You are out of flour.,Container can can typically be used for storing flour.,0
+The container has a lid.,Container can can typically be used for storing flour.,1
+You have a clean container.,Container can can typically be used for storing flour.,1
+You are in a kitchen.,Container can can typically be used for storing flour.,1
+The golddigger is at a fancy event.,Golddigger typically do desire for rich man.,1
+The golddigger is at a bar.,Golddigger typically do desire for rich man.,0
+There are rich men around.,Golddigger typically do desire for rich man.,1
+Golddigger works in a rig.,Golddigger typically do desire for rich man.,1
+Golddigger wants to be rich.,Golddigger typically do desire for rich man.,0
+Scissors are in a drawer.,Scissors glasses is typically used to hold scissors safely.,0
+Scissors are being used.,Scissors glasses is typically used to hold scissors safely.,1
+You have the wrong key.,Key are typically used for getting in to house.,0
+Key goes to different house.,Key are typically used for getting in to house.,0
+You have lost your key.,Key are typically used for getting in to house.,0
+You turn the key in the lock.,Key are typically used for getting in to house.,1
+Door is locked.,Key are typically used for getting in to house.,1
+You have the correct key for the given lock.,Key are typically used for getting in to house.,1
+Connie is sex addicted.,Connie typically desire sex.,1
+Connie is tired and asexuality.,Connie typically desire sex.,0
+Connie got good partner.,Connie typically desire sex.,1
+Connie is not in sex mood.,Connie typically desire sex.,0
+Connie is very attractive.,Connie typically desire sex.,1
+Connie is at work.,Connie typically desire sex.,0
+Your bagpipes are torn.,Parking lot are typically used to practice bagpipe technique.,0
+You have bagpipes.,Parking lot are typically used to practice bagpipe technique.,1
+The person is busy in work.,Meeting people typically cause more people know.,0
+The person has more friends.,Meeting people typically cause more people know.,1
+The person buys a magic set.,A person typically do desire for magic.,1
+The persons hands are too slow and clumsy.,A person typically do desire for magic.,0
+A person is magician.,A person typically do desire for magic.,1
+If a person is a doctor.,A person typically do desire for magic.,0
+Movie theatre is closed.,Movie ticket are typically used for getting into theatre.,0
+The movie ticket is for a different movie on a different day.,Movie ticket are typically used for getting into theatre.,0
+You are at your house.,Movie ticket are typically used for getting into theatre.,0
+Movie theatre is open.,Movie ticket are typically used for getting into theatre.,1
+The movie theater is open.,Movie ticket are typically used for getting into theatre.,1
+You have purchased a ticket.,Movie ticket are typically used for getting into theatre.,1
+You do not get the job.,Applying for job are typically used for being responsible.,0
+You are living a careless life.,Applying for job are typically used for being responsible.,0
+You are too young to work.,Applying for job are typically used for being responsible.,0
+You are qualified for the job.,Applying for job are typically used for being responsible.,1
+You are serious about your life.,Applying for job are typically used for being responsible.,1
+You fill out an application.,Applying for job are typically used for being responsible.,1
+A person who loves sweets.,A person typically have desire for cotton candy.,1
+A person who is sick.,A person typically have desire for cotton candy.,0
+The person likes cotton candy.,A person typically have desire for cotton candy.,1
+The person hates cotton candy .,A person typically have desire for cotton candy.,0
+A person already tasted cotton candy.,A person typically have desire for cotton candy.,1
+Fear has been used for detterence.,Punishing are typically used for deterrence.,0
+You punish people that are innocent.,Punishing are typically used for deterrence.,0
+The person cannot be deterred.,Punishing are typically used for deterrence.,0
+A person did something wrong.,Punishing are typically used for deterrence.,1
+You punish the guilty.,Punishing are typically used for deterrence.,1
+There is someone to punish.,Punishing are typically used for deterrence.,1
+The car is out of gas.,Driving can typically be used for reaching destination.,0
+Your drivers license expires.,Driving can typically be used for reaching destination.,0
+Your car runs out of gas.,Driving can typically be used for reaching destination.,0
+You have a destination.,Driving can typically be used for reaching destination.,1
+You have a car.,Driving can typically be used for reaching destination.,1
+Your car is functioning with gas and all parts.,Driving can typically be used for reaching destination.,1
+A person involve in multiple resolution.,A person typically desire conflict resolution.,1
+A person hates conflicts.,A person typically desire conflict resolution.,0
+The person likes peace.,A person typically desire conflict resolution.,1
+The person is hostile.,A person typically desire conflict resolution.,0
+A person has problem.,A person typically desire conflict resolution.,1
+If a person like fight.,A person typically desire conflict resolution.,0
+A person obeys laws and live lawfully.,A person typically desire behave lawfully.,1
+A person dislike to be lawful.,A person typically desire behave lawfully.,0
+A person is scared of the law.,A person typically desire behave lawfully.,1
+The person  behaves formal.,A person typically desire behave lawfully.,1
+The person is a thief.,A person typically desire behave lawfully.,0
+You lose money or waste energy.,Investing money or energy is typically used for reward.,0
+The stock market crashes and your money is lost.,Investing money or energy is typically used for reward.,0
+You have money or energy.,Investing money or energy is typically used for reward.,1
+The stock market is going up.,Investing money or energy is typically used for reward.,1
+The person skips the classes.,Getting good grade typically cause compliments.,0
+The person studies properly.,Getting good grade typically cause compliments.,1
+A person trusts others.,A person typically do desire to depend on promises of others.,1
+A person is distrustful of others.,A person typically do desire to depend on promises of others.,0
+The person believe in promises .,A person typically do desire to depend on promises of others.,1
+The person do not believe in promises .,A person typically do desire to depend on promises of others.,0
+A person gives respect to other.,A person typically do desire to depend on promises of others.,1
+A person is independent to others.,A person typically do desire to depend on promises of others.,0
+The news is inaccurate.,Hearing news typically causes becoming informed.,0
+The news is accurate.,Hearing news typically causes becoming informed.,1
+There is no betting.,Playing poker typically causes lose money betting.,0
+The game starts.,Playing poker typically causes lose money betting.,1
+You are absent in the class.,Attending class typically cause learning.,0
+You are present in the class.,Attending class typically cause learning.,1
+The person sleeps long enough.,A person typically desire sufficient sleep.,1
+A person is up all night.,A person typically desire sufficient sleep.,0
+Human need a timing sleep .,A person typically desire sufficient sleep.,1
+A person not sleep properly it affect the next day  .,A person typically desire sufficient sleep.,0
+A person gets good environment to sleep.,A person typically desire sufficient sleep.,1
+A person gets noisy environment.,A person typically desire sufficient sleep.,0
+A person wants to understand historical events.,A person typically desires understand events of history.,1
+The person has sense to understand events of history.,A person typically desires understand events of history.,1
+The person is a child who cannot understand events of history.,A person typically desires understand events of history.,0
+The person reads a history book.,A person typically desires understand events of history.,1
+The friend that are over are new.,Having friends over typically causes renewal of memories.,0
+A person having friends over starts a conversation about past times.,Having friends over typically causes renewal of memories.,1
+The friends only knew each other as toddlers.,Having friends over typically causes renewal of memories.,0
+The friends attended kindergarten through highschool together.,Having friends over typically causes renewal of memories.,1
+The milk teeth of the person has fallen down.,A person typically has desire for new set of teeth.,1
+The person has become too old.,A person typically has desire for new set of teeth.,0
+A person is in his childhood days.,A person typically has desire for new set of teeth.,1
+A person has infection in his mouth.,A person typically has desire for new set of teeth.,0
+The person do not have natural teeth and willing to get artificial teeth.,A person typically has desire for new set of teeth.,1
+The person has healthy natural teeth .,A person typically has desire for new set of teeth.,0
+The duck is alive.,Duck can typically be used to make duck curry.,0
+The duck is still alive.,Duck can typically be used to make duck curry.,0
+Your kitchen power is off.,Duck can typically be used to make duck curry.,0
+You have the ingredients.,Duck can typically be used to make duck curry.,1
+You are in the kitchen.,Duck can typically be used to make duck curry.,1
+You have a kitchen.,Duck can typically be used to make duck curry.,1
+You are already clean.,Bath can typically be used for removing dirt.,0
+The water is out.,Bath can typically be used for removing dirt.,0
+You are dirty and need to clean yourself.,Bath can typically be used for removing dirt.,1
+You are dirty.,Bath can typically be used for removing dirt.,1
+You are in the tub.,Bath can typically be used for removing dirt.,1
+A person wants their complaints to be addressed.,A person typically desire complaints to addressed.,1
+A person does not want their complaints addressed.,A person typically desire complaints to addressed.,0
+A person is judge .,A person typically desire complaints to addressed.,1
+If a person is criminal.,A person typically desire complaints to addressed.,0
+You get rejected.,Getting good grade are typically used for getting into university.,0
+You forget to study.,Getting good grade are typically used for getting into university.,0
+The university you apply to is very competitive and requires extra curricular activities.,Getting good grade are typically used for getting into university.,0
+You apply to universities.,Getting good grade are typically used for getting into university.,1
+You make good grades.,Getting good grade are typically used for getting into university.,1
+You apply to the university with your good grades.,Getting good grade are typically used for getting into university.,1
+The person likes their family.,A person typically desire see loved ones again.,1
+The person is fighting with their family.,A person typically desire see loved ones again.,0
+The person lives in their loved ones city.,A person typically desire see loved ones again.,1
+The person brought shame to their loved ones.,A person typically desire see loved ones again.,0
+The person is a lovable one.,A person typically desire see loved ones again.,1
+The person hates human beings.,A person typically desire see loved ones again.,0
+Displease someone for the silly things.,Displease typically cause dislike.,1
+Displease someone for showing and explaining the right way to the destination.,Displease typically cause dislike.,0
+The arm is up.,Arm can typically be used for preventing cars from crossing train tracks.,0
+Arm is off.,Arm can typically be used for preventing cars from crossing train tracks.,0
+The arm is raised.,Arm can typically be used for preventing cars from crossing train tracks.,0
+The arm is down.,Arm can typically be used for preventing cars from crossing train tracks.,1
+Arm is on.,Arm can typically be used for preventing cars from crossing train tracks.,1
+The arm is lowered.,Arm can typically be used for preventing cars from crossing train tracks.,1
+You live in the desert.,Pike can typically be used for eating.,0
+There are no pike in the lake.,Pike can typically be used for eating.,0
+You are near the ocean.,Pike can typically be used for eating.,1
+Pike has been caught.,Pike can typically be used for eating.,1
+The action figures are still in their boxes.,Action figure are typically used to make poses.,0
+"The action figure is made of stiff, unmoveable material.",Action figure are typically used to make poses.,0
+The action figure is stuck in place.,Action figure are typically used to make poses.,0
+Children are playing make believe.,Action figure are typically used to make poses.,1
+The action figure has moveable arms.,Action figure are typically used to make poses.,1
+The action figure can be customized.,Action figure are typically used to make poses.,1
+It is winter.,You can typically use valley to pick flowers.,0
+You are allergic to the flowers.,You can typically use valley to pick flowers.,0
+Valley is in winter season.,You can typically use valley to pick flowers.,0
+There are flowers in the valley.,You can typically use valley to pick flowers.,1
+The valley is in flower season.,You can typically use valley to pick flowers.,1
+The wife of the person cooks variety of dishes.,A person typically do desire to eat variety of foods.,1
+The person is lazy and unmarried.,A person typically do desire to eat variety of foods.,0
+A person is at restaurant.,A person typically do desire to eat variety of foods.,1
+A person is in forest.,A person typically do desire to eat variety of foods.,0
+A person like to eat.,A person typically do desire to eat variety of foods.,1
+A person already ate.,A person typically do desire to eat variety of foods.,0
+You purchase the same phone you already have.,Purchasing cellular phone typically cause new set of experiences.,0
+You purchase a phone with newer technology.,Purchasing cellular phone typically cause new set of experiences.,1
+The person is sleeping.,Taking shower typically causes cleaning body.,0
+By taking shower in the morning.,Taking shower typically causes cleaning body.,1
+The water is dirty .,Taking shower typically causes cleaning body.,0
+The person has soap and or shampoo.,Taking shower typically causes cleaning body.,1
+The balloons are popped.,Balloon are typically used for celebration.,0
+Your party is outside and doesnt need balloons.,Balloon are typically used for celebration.,0
+The balloons deflated before the party.,Balloon are typically used for celebration.,0
+The balloons are filled with air.,Balloon are typically used for celebration.,1
+You are throwing a party and need decorations.,Balloon are typically used for celebration.,1
+Balloons surround a party space.,Balloon are typically used for celebration.,1
+A person is rain hater.,A person typically desires umbrella when rains.,1
+A person is pluviophile.,A person typically desires umbrella when rains.,0
+The person forgot to take the umbrella.,A person typically desires umbrella when rains.,0
+The person owns an umbrella.,A person typically desires umbrella when rains.,1
+The weather is sunny outside.,A person typically desires umbrella when rains.,0
+The main artery has a tear.,Main artery can typically be used for providing blood to body.,0
+You have blood circulation condition.,Main artery can typically be used for providing blood to body.,0
+The artery is torn.,Main artery can typically be used for providing blood to body.,0
+Your circulatory system is working correctly.,Main artery can typically be used for providing blood to body.,1
+You have healthy blood flow.,Main artery can typically be used for providing blood to body.,1
+The heart is pumping.,Main artery can typically be used for providing blood to body.,1
+The person is travelling .,A person typically desire short travel times.,1
+The person is staying at home and not travelling .,A person typically desire short travel times.,0
+The person has a private jet.,A person typically desire short travel times.,1
+The person is in rush hour.,A person typically desire short travel times.,0
+A persons office is nearby home.,A person typically desire short travel times.,1
+A person is travelling long to office.,A person typically desire short travel times.,0
+The person skips to bath.,Having bath typically causes use water.,0
+The person baths in the bath tub.,Having bath typically causes use water.,1
+The person keeps its focus on the goal.,A person typically desire well thought of.,1
+The person distracted from the goal.,A person typically desire well thought of.,0
+A person is intelligent.,A person typically desire well thought of.,1
+If a person has interest on sports.,A person typically desire well thought of.,0
+You dont eat healthy.,Jogging typically cause becoming healthier.,0
+Jogging and exercise are consistent.,Jogging typically cause becoming healthier.,1
+Jogging is performed after having heavy food.,Jogging typically cause becoming healthier.,0
+Jogging becomes a regular activity.,Jogging typically cause becoming healthier.,1
+The person is an adult.,Majority of humans typically desires work.,1
+The person is a young child.,Majority of humans typically desires work.,0
+Work is available.,Majority of humans typically desires work.,1
+Work is scarce.,Majority of humans typically desires work.,0
+Humans wants to earn more money.,Majority of humans typically desires work.,1
+Some humans are lazy.,Majority of humans typically desires work.,0
+A person wants to live to be old.,A person typically do desire to live to ripe old age.,1
+The person is getting old.,A person typically do desire to live to ripe old age.,1
+The person is old.,A person typically do desire to live to ripe old age.,0
+A person is generous.,A person typically desires help.,1
+A person has helping mind.,A person typically desires help.,1
+If a person is selfish.,A person typically desires help.,0
+The person asks for help.,A person typically desires help.,1
+The person is alone.,A person typically desires help.,0
+The sale takes days to clear.,Paying by credit card typically cause account to empty.,0
+The money is withdrawn.,Paying by credit card typically cause account to empty.,1
+You are a millionaire.,Paying by credit card typically cause account to empty.,0
+You have a low account balance.,Paying by credit card typically cause account to empty.,1
+The person pays cash.,Paying by credit card typically cause account to empty.,0
+The person pays from credit card.,Paying by credit card typically cause account to empty.,1
+Your friend is unavailable.,Comforting friend can typically be used for bonding.,0
+Your friend is in a good mood.,Comforting friend can typically be used for bonding.,0
+Friends are depressed.,Comforting friend can typically be used for bonding.,0
+You say comforting words to your friend.,Comforting friend can typically be used for bonding.,1
+Your friend is sad.,Comforting friend can typically be used for bonding.,1
+Friends need support after trauma.,Comforting friend can typically be used for bonding.,1
+The person keeps the promise.,A person typically do desire for agreement.,1
+The person is greedy.,A person typically do desire for agreement.,0
+A person need to build a house.,A person typically do desire for agreement.,1
+If a person is fraud.,A person typically do desire for agreement.,0
+The person meets a likeminded person.,A person typically do desire for agreement.,1
+The person talks to someone with clashing views.,A person typically do desire for agreement.,0
+A person is loved by some one.,A person typically do desire for unconditional love.,1
+A person getting divorced.,A person typically do desire for unconditional love.,0
+The person has a family.,A person typically do desire for unconditional love.,1
+The persons family is dysfunctional.,A person typically do desire for unconditional love.,0
+A person is having lovable parents.,A person typically do desire for unconditional love.,1
+A person is having hatred partner.,A person typically do desire for unconditional love.,0
+The friends have bad news to chat about.,Chatting with friends typically causes will laugh.,0
+The friends chat about good things and have good vibes.,Chatting with friends typically causes will laugh.,1
+A person is honest.,A person typically do desire for plain truth.,1
+The person is honest in communicating that they want the plain truth.,A person typically do desire for plain truth.,1
+The person knowingly accepts lies as the truth.,A person typically do desire for plain truth.,0
+The person is alive.,Dying typically causes other people to cry.,0
+The person has more affection.,Dying typically causes other people to cry.,1
+Bring lots of money.,Going to mall typically cause poverty.,0
+Bring lack of money.,Going to mall typically cause poverty.,1
+The person lives for itself.,A person typically do desire for autonomy.,1
+The person has commitment and live for family.,A person typically do desire for autonomy.,0
+A person who heads for the family.,A person typically do desire for autonomy.,1
+A person lives in joint family.,A person typically do desire for autonomy.,0
+The person is an engineer.,A person typically do desire for autonomy.,1
+The person visits a planetarium nearby.,A person typically desires see meteor shower.,1
+The person is uninterested in the celestial body.,A person typically desires see meteor shower.,0
+A person like space.,A person typically desires see meteor shower.,1
+If a person is kid.,A person typically desires see meteor shower.,0
+You just started running.,Going jogging typically cause getting out of breath.,0
+You are out of shape.,Going jogging typically cause getting out of breath.,1
+You are in shape for jogging.,Going jogging typically cause getting out of breath.,0
+You jog long enough to raise your heart rate.,Going jogging typically cause getting out of breath.,1
+The person has a good pen.,A person typically desires writing to clear.,1
+The person has a bad pen. is.,A person typically desires writing to clear.,0
+The person understands writing.,A person typically desires writing to clear.,1
+The person is suffering from dyslexia .,A person typically desires writing to clear.,0
+The bathroom stall is clean.,Stall is typically used to read.,0
+The bathroom stall has grafitti.,Stall is typically used to read.,1
+Dress up neatly.,People typically does desire to look nice when meeting other people.,1
+Meeting spreads diseases.,People typically does desire to look nice when meeting other people.,0
+People like beauty life.,People typically does desire to look nice when meeting other people.,1
+The person needs to impress people.,People typically does desire to look nice when meeting other people.,1
+You are lying.,Taking oath are typically used for establishing word of honor.,0
+You are by yourself.,Taking oath are typically used for establishing word of honor.,0
+You are in court.,Taking oath are typically used for establishing word of honor.,1
+You are swearing on a bible.,Taking oath are typically used for establishing word of honor.,1
+You are in a court.,Taking oath are typically used for establishing word of honor.,1
+The person has more money to spend.,A person typically do desire for lots of stuff.,1
+The person has to earn more to satisfy all his needs.,A person typically do desire for lots of stuff.,0
+A person has lot of time .,A person typically do desire for lots of stuff.,1
+A person does not have time to do things.,A person typically do desire for lots of stuff.,0
+The person spends a lot of money.,A person typically do desire for lots of stuff.,1
+The person sells their stuff.,A person typically do desire for lots of stuff.,0
+The outside environment is too crowded for relaxation to happen.,Going outside for evening typically cause relax and enjoy yourself.,0
+The climate and environment outside is well suited for relaxation and enjoyment.,Going outside for evening typically cause relax and enjoy yourself.,1
+The weather is bad.,Going outside for evening typically cause relax and enjoy yourself.,0
+The weather is nice.,Going outside for evening typically cause relax and enjoy yourself.,1
+The car is operating on demand.,Driving car typically causes car crash.,0
+The perosn going outside.,Driving car typically causes car crash.,1
+Everyone drives cautiously.,Driving car typically causes car crash.,0
+A driver runs a red light.,Driving car typically causes car crash.,1
+The car is being driven safely.,Driving car typically causes car crash.,0
+The car is going to fast.,Driving car typically causes car crash.,1
+A person is fruit lover. .,A person typically desire ripe strawberries.,1
+A person has diabetes.,A person typically desire ripe strawberries.,0
+A person cares about the quality of their strawberries.,A person typically desire ripe strawberries.,1
+A person does not care about the quality of their strawberries.,A person typically desire ripe strawberries.,0
+The season is right for strawberries.,A person typically desire ripe strawberries.,1
+The season is winter.,A person typically desire ripe strawberries.,0
+The person involved in the discussion does not like to talk about third persons.,Telling many people about typically cause to become gossip.,0
+The person knows details of many people to tell about.,Telling many people about typically cause to become gossip.,1
+Your car is parked.,Being involved in accident are typically used for people negligent.,0
+Your car is not moving.,Being involved in accident are typically used for people negligent.,0
+Your car malfunctions.,Being involved in accident are typically used for people negligent.,0
+You are a bad driver.,Being involved in accident are typically used for people negligent.,1
+You are driving fact.,Being involved in accident are typically used for people negligent.,1
+You are drunk.,Being involved in accident are typically used for people negligent.,1
+A person wants to get better.,A person typically desire recover from nervous breakdown.,1
+A person is having nervous breakdown.,A person typically desire recover from nervous breakdown.,1
+The person is unaware of nervous breakdown.,A person typically desire recover from nervous breakdown.,0
+The person suffers from depression.,A person typically desire recover from nervous breakdown.,1
+The person is out of station.,Loving else typically cause caring about needs.,0
+The person is taking care for them.,Loving else typically cause caring about needs.,1
+The cat is alive.,Burying cat can typically be used for bringing closure.,0
+Your cat is alive.,Burying cat can typically be used for bringing closure.,0
+You are a cruel person.,Burying cat can typically be used for bringing closure.,0
+You have the corpse of the cat.,Burying cat can typically be used for bringing closure.,1
+You had a pet cat.,Burying cat can typically be used for bringing closure.,1
+You love animals.,Burying cat can typically be used for bringing closure.,1
+The person finds a new love.,Getting divorce typically causes sadness.,0
+The person loves their spouse.,Getting divorce typically causes sadness.,1
+A divorce is annulled.,Getting divorce typically causes sadness.,0
+Because of misunderstanding and living.,Getting divorce typically causes sadness.,1
+The divorce is of mutual consent due to incompatible living of the couple.,Getting divorce typically causes sadness.,0
+The couple feel left lonely after the divorce.,Getting divorce typically causes sadness.,1
+A person has computer knowledge.,A person typically desire working computer.,1
+If a person is mechanic.,A person typically desire working computer.,0
+The computer was bought new.,A person typically desire working computer.,1
+The computer is unplugged.,A person typically desire working computer.,0
+Use cotton in ears.,A person typically desires avoid very loud noises.,1
+Avoid noise pollution.,A person typically desires avoid very loud noises.,0
+Loud noises scare a person.,A person typically desires avoid very loud noises.,1
+A person plugs his ears.,A person typically desires avoid very loud noises.,1
+A person is in poverty to get closed room.,A person typically desires avoid very loud noises.,0
+The environment is safe for survival.,Humans typically desires have control over environment.,1
+The environment is unsafe.,Humans typically desires have control over environment.,0
+The humans drive cars and pollute the air.,Humans typically desires have control over environment.,1
+You have to carry a large appliance.,Duffel bag are typically used to pack travel clothing and items.,0
+The duffel bag is torn open.,Duffel bag are typically used to pack travel clothing and items.,0
+Your duffel bag is full.,Duffel bag are typically used to pack travel clothing and items.,0
+You have a small amount of travel clothing and items.,Duffel bag are typically used to pack travel clothing and items.,1
+The duffel bag is large enough to fit the items.,Duffel bag are typically used to pack travel clothing and items.,1
+You are going on vacation.,Duffel bag are typically used to pack travel clothing and items.,1
+You are sitting in a train.,Foot can typically be used for walking on.,0
+Your ankle is sprained.,Foot can typically be used for walking on.,0
+You have bone condition.,Foot can typically be used for walking on.,0
+You are going somewhere by walking.,Foot can typically be used for walking on.,1
+You are on a trail.,Foot can typically be used for walking on.,1
+Your feet are healthy.,Foot can typically be used for walking on.,1
+A person is nature lover.,A person typically do desire to get fresh air.,1
+A person is anti ecologist.,A person typically do desire to get fresh air.,0
+The person go for a walk along beachside.,A person typically do desire to get fresh air.,1
+The person restricts itself inside home.,A person typically do desire to get fresh air.,0
+A person is in windy environment like garden and beach.,A person typically do desire to get fresh air.,1
+A person locked in gloomy room.,A person typically do desire to get fresh air.,0
+You do not have water.,Bathing are typically used for cleansing mind.,0
+You are stressed when you bathe.,Bathing are typically used for cleansing mind.,0
+The water only runs cold.,Bathing are typically used for cleansing mind.,0
+You use bath bombs.,Bathing are typically used for cleansing mind.,1
+You take a bath to relax.,Bathing are typically used for cleansing mind.,1
+You have a long shower to get some peace and quiet.,Bathing are typically used for cleansing mind.,1
+The car has a flat tire.,Going for drive can typically be used for reaching destination.,0
+The engine of your car is dead.,Going for drive can typically be used for reaching destination.,0
+It is impossible when the car is out of gas.,Going for drive can typically be used for reaching destination.,0
+You have a car.,Going for drive can typically be used for reaching destination.,1
+You have gas in your car.,Going for drive can typically be used for reaching destination.,1
+It is possible when you own a car.,Going for drive can typically be used for reaching destination.,1
+I have no drilling machine.,Drilling hole are typically used for driving in screw.,0
+The drill is broken.,Drilling hole are typically used for driving in screw.,0
+I am a carpenter.,Drilling hole are typically used for driving in screw.,1
+You have a drill.,Drilling hole are typically used for driving in screw.,1
+The bowl is tipped over.,Bowl are typically used to hold hot cereal.,0
+Bowl has a hole at bottom.,Bowl are typically used to hold hot cereal.,0
+The bowl has a crack.,Bowl are typically used to hold hot cereal.,0
+The bowl is upright.,Bowl are typically used to hold hot cereal.,1
+Bowl is heat safe.,Bowl are typically used to hold hot cereal.,1
+You heat the cereal.,Bowl are typically used to hold hot cereal.,1
+The laundry machines are out of order.,Laundry room can typically be used to clean laundry.,0
+The water pipes are broken.,Laundry room can typically be used to clean laundry.,0
+The laundry room is out of service.,Laundry room can typically be used to clean laundry.,0
+The laundry machines are connected to outlet.,Laundry room can typically be used to clean laundry.,1
+There is a washing machine there.,Laundry room can typically be used to clean laundry.,1
+The laundry room is in service.,Laundry room can typically be used to clean laundry.,1
+The person have positive thinking people around its atmosphere.,A person typically has desire for happy and productive.,1
+The efforts of the person is unrecognized by others.,A person typically has desire for happy and productive.,0
+A person is looking for work to do.,A person typically has desire for happy and productive.,1
+Avoiding world domination.,World domination typically cause chaos.,0
+World domination.,World domination typically cause chaos.,1
+A person has a mind and wants to have purpose.,A person typically desire understand cause of action.,1
+The person thinks smartly.,A person typically desire understand cause of action.,1
+The person unable to think deep.,A person typically desire understand cause of action.,0
+Playing carelessness.,Playing chess typically cause win.,0
+Playing intrested.,Playing chess typically cause win.,1
+The person is a beginner and has little knowledge about chess..,Playing chess typically cause win.,0
+The player is an expert in chess and can defeat any opponent he faces.,Playing chess typically cause win.,1
+There are people to show off to.,A person typically desires show off.,1
+The person is good as something.,A person typically desires show off.,1
+The person is boring.,A person typically desires show off.,0
+You have solved the mystery.,Giving clue are typically used for helping people solve puzzle.,0
+The clue is for a different puzzle.,Giving clue are typically used for helping people solve puzzle.,0
+The puzzle is a jigsaw puzzle.,Giving clue are typically used for helping people solve puzzle.,0
+You are playing a puzzle game.,Giving clue are typically used for helping people solve puzzle.,1
+The clue is correct for the puzzle.,Giving clue are typically used for helping people solve puzzle.,1
+The puzzle is a logic puzzle.,Giving clue are typically used for helping people solve puzzle.,1

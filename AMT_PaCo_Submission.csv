@@ -1,0 +1,507 @@
+,prompt,response,first2last,prevlast2first,prevlast2last,first2nextfirst,Approve,Reject,response_verbs,response_arg1,response_arg2
+0,Testing car can typically be used for making sure car doesn't explode. When is this possible?,when you take a test drive,0.0,14.0,14.0,17.0,x,,take,a test drive,
+1,Testing car can typically be used for making sure car doesn't explode. When is this possible?,You have the key to the car.,0.0,8.0,8.0,12.0,x,,have,the key to the car,
+2,Testing car can typically be used for making sure car doesn't explode. When is this possible?,The car is in the pre production phase.,0.0,4.0,4.0,44.0,x,,is,The car,in the pre production phase
+3,Testing car can typically be used for making sure car doesn't explode. When is this possible?,When the car is overheating.,0.0,11.0,11.0,40.0,x,,is,the car,overheating
+4,Testing car can typically be used for making sure car doesn't explode. When is this possible?,You work in quality control for a car manufacturer. ,,1.0,1.0,42.0,x,,work,for a car manufacturer,
+5,Store refrigerator is typically used to demonstrate products. When is this possible?,The store sells many refridgerators.,,2.0,2.0,25.0,x,,sells,many refridgerators,
+6,Store refrigerator is typically used to demonstrate products. When is this possible?,when the refrigerator is cool,3.0,58.0,61.0,17.0,x,,is,the refrigerator,cool
+7,Store refrigerator is typically used to demonstrate products. When is this possible?,Store refrigerator has food inside.,81.0,117.0,198.0,91.0,x,,has,food,
+8,Store refrigerator is typically used to demonstrate products. When is this possible?,The refrigerator works well. ,0.0,3.0,3.0,22.0,x,,works,,
+9,Store refrigerator is typically used to demonstrate products. When is this possible?,The products are refrigerated.,0.0,6.0,6.0,13.0,x,,are,The products,refrigerated
+10,You can typically use bullet to shoot. When is this impossible?,You are at a shooting range.,0.0,1.0,1.0,7.0,x,,are,You,at a shooting range
+11,You can typically use bullet to shoot. When is this impossible?,When you are shooting a watergun.,10.0,16.0,26.0,15.0,x,,shooting,a watergun,
+12,You can typically use bullet to shoot. When is this impossible?,When the gun is jammed.,0.0,3.0,3.0,21.0,x,,is,the gun,jammed
+13,You can typically use bullet to shoot. When is this impossible?,you should know how to shoot with a bullet,0.0,18.0,18.0,21.0,x,,know,how to shoot with a bullet,
+14,You can typically use bullet to shoot. When is this impossible?,The bullet is outside the gun.,11.0,2.0,13.0,20.0,x,,is,The bullet,outside the gun
+15,Looking through telescope can typically be used for viewing heavens. When is this possible?,The telescope is pointed upward.,0.0,1.0,1.0,10.0,x,,pointed,The telescope,
+16,Looking through telescope can typically be used for viewing heavens. When is this possible?,When you look up through a telescope on a mountain.,43.0,13.0,56.0,46.0,x,,look,up through a telescope on a mountain,
+17,Looking through telescope can typically be used for viewing heavens. When is this possible?,The sky is clear of clouds.,0.0,7.0,7.0,21.0,x,,is,The sky,clear of clouds
+18,Looking through telescope can typically be used for viewing heavens. When is this possible?,when heavens view is possible,0.0,10.0,10.0,25.0,x,,is,heavens view,possible
+19,Looking through telescope can typically be used for viewing heavens. When is this possible?,INVALID,,13.0,13.0,2.0,x,,,,
+20,Baseball stadium can typically be used for baseball. When is this impossible?,The field is flooded due to rain.,0.0,1.0,1.0,23.0,x,,flooded,The field,
+21,Baseball stadium can typically be used for baseball. When is this impossible?,The stadium is reserved for other events.,34.0,1.0,35.0,36.0,x,,reserved,The stadium,
+22,Baseball stadium can typically be used for baseball. When is this impossible?,"On a rainy day, and the game gets cancelled. ",0.0,2.0,2.0,38.0,x,,gets,the game,cancelled
+23,Baseball stadium can typically be used for baseball. When is this impossible?,The stadium is under construction.,0.0,10.0,10.0,9.0,x,,is,The stadium,under construction
+24,Baseball stadium can typically be used for baseball. When is this impossible?,when baseball stadium is unavailable,4.0,9.0,13.0,32.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,baseball stadium,unavailable
+25,Baseball stadium can typically be used for baseball. When is this impossible?,The stadium is hosting a concert.,0.0,5.0,5.0,19.0,x,,hosting,a concert,
+26,Surfing can typically be used for thrills. When is this possible?,You are an experienced surfer.,1.0,1.0,2.0,11.0,x,,are,You,an experienced surfer
+27,Surfing can typically be used for thrills. When is this possible?,You are surfing huge waves.,0.0,1.0,1.0,8.0,x,,are,You,surfing huge waves
+28,Surfing can typically be used for thrills. When is this possible?,You are in the water,54.0,1.0,55.0,60.0,x,,are,You,in the water
+29,Surfing can typically be used for thrills. When is this possible?,When the waves you are surfing on are huge.,79.0,143.0,222.0,106.0,x,,are,the waves you are surfing on,huge
+30,Surfing can typically be used for thrills. When is this possible?,when we enjoy surfing,0.0,23.0,23.0,18.0,x,,enjoy,surfing,
+31,You can typically use gun to shoot. When is this possible?,you should be able to see the object,1.0,41.0,42.0,54.0,x,,be,you,able to see the object
+32,You can typically use gun to shoot. When is this possible?,You have bullets.,0.0,4.0,4.0,5.0,x,,have,bullets,
+33,You can typically use gun to shoot. When is this possible?,You are at a shooting range.,10.0,1.0,11.0,21.0,x,,are,You,at a shooting range
+34,You can typically use gun to shoot. When is this possible?,The gun has a bullet loaded in it.,0.0,1.0,1.0,10.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,has,a bullet loaded in it,
+35,You can typically use gun to shoot. When is this possible?,The ammo for the gun is available.,33.0,1.0,34.0,38.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,The ammo for the gun,available
+36,Swimming pool are typically used for competitive events. When is this possible?,The pool is filled with water.,0.0,39.0,39.0,7.0,x,,filled,The pool,with water
+37,Swimming pool are typically used for competitive events. When is this possible?,When the swimming pools are used for the Olympics.,108.0,2.0,110.0,122.0,x,,used,the swimming pools,for the Olympics
+38,Swimming pool are typically used for competitive events. When is this possible?,When the swimming pool is full of water.,15.0,5.0,20.0,21.0,x,,is,the swimming pool,full of water
+39,Swimming pool are typically used for competitive events. When is this possible?,Swimming pool has water in it. ,0.0,6.0,6.0,9.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,has,water,
+40,Swimming pool are typically used for competitive events. When is this possible?,The pool has lanes.,0.0,4.0,4.0,9.0,x,,has,lanes,
+41,Swimming pool are typically used for competitive events. When is this possible?,swimming pool should be disinfected,0.0,19.0,19.0,72.0,x,,disinfected,swimming pool,
+42,Playing violin can typically be used for making people happy. When is this possible?,When a violinist is talented. ,0.0,2.0,2.0,23.0,x,,talented,,
+43,Playing violin can typically be used for making people happy. When is this possible?,You are a skilled musician. ,37.0,7.0,44.0,43.0,x,,are,You,a skilled musician
+44,Playing violin can typically be used for making people happy. When is this possible?,You are playing a song ,0.0,1.0,1.0,37.0,x,,playing,a song,
+45,Playing violin can typically be used for making people happy. When is this possible?,the violinist should play pleasant notes,0.0,12.0,12.0,31.0,x,,play,,
+46,Playing violin can typically be used for making people happy. When is this possible?,violin used to play music,0.0,6.0,6.0,24.0,x,,play,music,
+47,You can typically use shareholder - directing company. When is this possible?,you are a director of the company,0.0,45.0,45.0,18.0,x,,are,you,a director of the company
+48,You can typically use shareholder - directing company. When is this possible?,INVALID,,2.0,2.0,1.0,x,,,,
+49,You can typically use shareholder - directing company. When is this possible?,INVALID,16.0,2.0,18.0,23.0,x,,,,
+50,You can typically use shareholder - directing company. When is this possible?,After a company has IPOed.,22.0,6.0,28.0,37.0,x,,has,,
+51,You can typically use shareholder - directing company. When is this possible?,the shareholder should approach the company directly,2.0,23.0,25.0,31.0,x,,approach,the shareholder,the company
+52,You can typically use pets to provide companionship. When is this possible?,When you adopt a pet and bring the pet home with you. ,36.0,1.0,37.0,40.0,x,,bring,the pet home,
+53,You can typically use pets to provide companionship. When is this possible?,You are not allergic to pets.,0.0,6.0,6.0,9.0,,[Rule 5 Violation] Avoid using negative language.,are,You,allergic to pets
+54,You can typically use pets to provide companionship. When is this possible?,When you are home,0.0,4.0,4.0,18.0,x,,are,you,home
+55,You can typically use pets to provide companionship. When is this possible?,At a dog park,0.0,39.0,39.0,26.0,x,,,,
+56,You can typically use pets to provide companionship. When is this possible?,pets should be vaccinated,0.0,11.0,11.0,22.0,x,,be,pets,vaccinated
+57,You can typically use pets to provide companionship. When is this possible?,The pet is a dog.,0.0,1.0,1.0,6.0,x,,is,The pet,a dog
+58,You can typically use pets to provide companionship. When is this possible?,When you have a pet dog.,0.0,14.0,14.0,7.0,x,,have,a pet dog,
+59,You can typically use taking final exams for getting grade. When is this impossible?,You are absent from the exam.,1.0,5.0,6.0,16.0,x,,are,You,absent from the exam
+60,You can typically use taking final exams for getting grade. When is this impossible?,there are no questions for the exam,57.0,12.0,69.0,61.0,,[Rule 5 Violation] Avoid using negative language.,are,no questions for the exam,
+61,You can typically use taking final exams for getting grade. When is this impossible?,When school is cancelled because of a pandemic. ,0.0,2.0,2.0,16.0,x,,cancelled,school,
+62,You can typically use taking final exams for getting grade. When is this impossible?,finding it difficult to take final exam,32.0,21.0,53.0,62.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,finding,it difficult to take final exam,
+63,You can typically use taking final exams for getting grade. When is this impossible?,Exam time is low,36.0,2.0,38.0,115.0,x,,is,Exam time,low
+64,Classroom chair can typically be used to sit in during school. When is this impossible?,The chair has a broken leg.,1.0,5.0,6.0,29.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,has,a broken leg,
+65,Classroom chair can typically be used to sit in during school. When is this impossible?,The chair has a broken leg.,,1.0,1.0,10.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,has,a broken leg,
+66,Classroom chair can typically be used to sit in during school. When is this impossible?,the school has broken chair,0.0,9.0,9.0,62.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,broken,chair,
+67,Classroom chair can typically be used to sit in during school. When is this impossible?,when the chair has broken legs,0.0,12.0,12.0,19.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,broken,legs,
+68,Classroom chair can typically be used to sit in during school. When is this impossible?,When it is the summer holidays.,0.0,6.0,6.0,33.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,is,it,the summer holidays
+69,Animal can typically be used to conduct experiment. When is this possible?,When you are testing vaccines on rats.,0.0,26.0,26.0,19.0,x,,testing,vaccines on rats,
+70,Animal can typically be used to conduct experiment. When is this possible?,animals knowledge is less,39.0,16.0,55.0,119.0,x,,is,animals knowledge,less
+71,Animal can typically be used to conduct experiment. When is this possible?,there are some animal in the laboratory,73.0,13.0,86.0,89.0,x,,are,some animal,
+72,Animal can typically be used to conduct experiment. When is this possible?,You are in a laboratory.,0.0,1.0,1.0,18.0,x,,are,You,in a laboratory
+73,Animal can typically be used to conduct experiment. When is this possible?,You are a scientist. ,0.0,1.0,1.0,9.0,x,,are,You,a scientist
+74,Animal can typically be used to conduct experiment. When is this possible?,When the laws of the land allow you to conduct animal testing. ,17.0,1.0,18.0,20.0,x,,allow,you to conduct animal testing,
+75,Striking match can typically be used for signaling at night. When is this possible?,You are in the dark. ,,1.0,1.0,15.0,x,,are,You,in the dark
+76,Striking match can typically be used for signaling at night. When is this possible?,When the match is dry.,0.0,16.0,16.0,23.0,x,,is,the match,dry
+77,Striking match can typically be used for signaling at night. When is this possible?,You have a matchbook.,0.0,15.0,15.0,11.0,x,,have,a matchbook,
+78,Striking match can typically be used for signaling at night. When is this possible?,match should be dry,0.0,14.0,14.0,20.0,x,,be,match,dry
+79,Striking match can typically be used for signaling at night. When is this possible?,It is dry outside.,1.0,1.0,2.0,8.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,is,It,dry
+80,Book can typically be used for learning about christian organization. When is this possible?,You have access to the book,1.0,5.0,6.0,27.0,x,,have,access to the book,
+81,Book can typically be used for learning about christian organization. When is this possible?,Book should be written by good author,4.0,17.0,21.0,30.0,x,,written,Book,
+82,Book can typically be used for learning about christian organization. When is this possible?,When you are able to read.,0.0,1.0,1.0,37.0,x,,are,you,able to read
+83,Book can typically be used for learning about christian organization. When is this possible?,The book is about Christianity.,0.0,1.0,1.0,33.0,x,,is,The book,about Christianity
+84,Plumbing can typically be used for portability of water and waste. When is this impossible?,When there is a hole in the pipe.,0.0,2.0,2.0,20.0,x,,is,a hole in the pipe,
+85,Plumbing can typically be used for portability of water and waste. When is this impossible?,The pipes are cracked.,8.0,10.0,18.0,11.0,x,,are,The pipes,cracked
+86,Plumbing can typically be used for portability of water and waste. When is this impossible?,when the pipe is filled with waste,35.0,13.0,48.0,39.0,x,,filled,the pipe,with waste
+87,Plumbing can typically be used for portability of water and waste. When is this impossible?,The pipes are clogged.,0.0,2.0,2.0,32.0,x,,are,The pipes,clogged
+88,Plumbing can typically be used for portability of water and waste. When is this impossible?,The plumbing is disconnected.,0.0,6.0,6.0,18.0,x,,is,The plumbing,disconnected
+89,You can typically use cognitive psychological therapy for treating mental illness. When is this possible?,You are a licensed therapist.,0.0,2.0,2.0,25.0,x,,are,You,a licensed therapist
+90,You can typically use cognitive psychological therapy for treating mental illness. When is this possible?,You are seeing a professional for help.,0.0,1.0,1.0,31.0,x,,seeing,a professional for help,
+91,You can typically use cognitive psychological therapy for treating mental illness. When is this possible?,You are a doctor of psychology.,0.0,1.0,1.0,10.0,x,,are,You,a doctor of psychology
+92,You can typically use cognitive psychological therapy for treating mental illness. When is this possible?,if the patient is cognitively functional,39.0,53.0,92.0,65.0,x,,is,the patient,cognitively functional
+93,You can typically use cognitive psychological therapy for treating mental illness. When is this possible?,When you or your insurance can afford cognitive psychology therapy. ,0.0,4.0,4.0,26.0,x,,can,afford cognitive psychology therapy,
+94,Fabric is typically used for upholstery. When is this possible?,When you can reupholster the cushion pads on a chair.,0.0,6.0,6.0,43.0,x,,reupholster,the cushion pads,
+95,Fabric is typically used for upholstery. When is this possible?,You are sewing.,0.0,4.0,4.0,14.0,x,,are,You,sewing
+96,Fabric is typically used for upholstery. When is this possible?,You are a furniture maker. ,0.0,129.0,129.0,9.0,x,,are,You,a furniture maker
+97,Taking exam can typically be used for getting promoted. When is this possible?,You are a student.,0.0,1.0,1.0,6.0,x,,are,You,a student
+98,Taking exam can typically be used for getting promoted. When is this possible?,You perform well on the exam.,0.0,2.0,2.0,15.0,x,,perform,,
+99,Taking exam can typically be used for getting promoted. When is this possible?,you should qualify for the exam,28.0,9.0,37.0,54.0,x,,qualify,you,for the exam
+100,Taking exam can typically be used for getting promoted. When is this possible?,You have qualified for the exam,5.0,3.0,8.0,14.0,x,,have,qualified for the exam,
+101,Taking exam can typically be used for getting promoted. When is this possible?,The examiner is available.,0.0,1.0,1.0,19.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,The examiner,available
+102,Taking exam can typically be used for getting promoted. When is this possible?,When employer has job openings for positons above your pay grade. ,0.0,14.0,14.0,47.0,x,,has,job openings for positons above your pay grade,
+103,You can typically use stairwell ##s ascending from one floor to another. When is this possible?,You are able to walk,1.0,63.0,64.0,28.0,x,,are,You,able to walk
+104,You can typically use stairwell ##s ascending from one floor to another. When is this possible?,You are in a skyscraper.,39.0,62.0,101.0,51.0,x,,are,You,in a skyscraper
+105,You can typically use stairwell ##s ascending from one floor to another. When is this possible?,When a building has more than one floor.,0.0,2.0,2.0,28.0,x,,has,more than one floor,
+106,You can typically use stairwell ##s ascending from one floor to another. When is this possible?,You are in a building with multiple floors.,0.0,1.0,1.0,13.0,x,,are,You,in a building with multiple floors
+107,You can typically use stairwell ##s ascending from one floor to another. When is this possible?,The building is more than one floor.,0.0,1.0,1.0,19.0,x,,is,The building,more than one floor
+108,Finger can typically be used to press enter. When is this impossible?,You are a quadriplegic.,53.0,4.0,57.0,59.0,x,,are,You,a quadriplegic
+109,Finger can typically be used to press enter. When is this impossible?,When the enter key is broken. ,33.0,2.0,35.0,60.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,broken,the enter key,
+110,Finger can typically be used to press enter. When is this impossible?,You are wearing a hand cast. ,0.0,2.0,2.0,42.0,x,,wearing,a hand cast,
+111,Finger can typically be used to press enter. When is this impossible?,Finger is hurt.,,14.0,14.0,12.0,x,,hurt,Finger,
+112,Finger can typically be used to press enter. When is this impossible?,when the enter button has complaints,6.0,11.0,17.0,37.0,x,,has,complaints,
+113,Finger can typically be used to press enter. When is this impossible?,The finger is in a splint.,0.0,14.0,14.0,14.0,x,,is,The finger,in a splint
+114,Finger can typically be used to press enter. When is this impossible?,When the enter button on the keyboard is broken.,29.0,1.0,30.0,38.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,broken,the enter button on the keyboard,
+115,You can typically use lie for getting want. When is this possible?,we want more about it,15.0,25.0,40.0,38.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,want,more,about it
+116,You can typically use lie for getting want. When is this possible?,The lie is persuasive.,0.0,1.0,1.0,59.0,x,,is,The lie,persuasive
+117,You can typically use lie for getting want. When is this possible?,Lie manipulates the fact.,0.0,39.0,39.0,19.0,x,,manipulates,the fact,
+118,You can typically use lie for getting want. When is this possible?,people agree with the liar,1.0,24.0,25.0,46.0,x,,agree,with the liar,
+119,You can typically use lie for getting want. When is this possible?,When you lie about being sick to get a day of work.,0.0,6.0,6.0,23.0,x,,lie,,about being sick to get a day of work
+120,Farm is typically used for raising crops. When is this possible?,enough rain should be available,1.0,8.0,9.0,25.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,be,enough rain,available
+121,Farm is typically used for raising crops. When is this possible?,The farm has fertile soil.,0.0,1.0,1.0,10.0,x,,has,fertile soil,
+122,Farm is typically used for raising crops. When is this possible?,The land is fertile.,,1.0,1.0,12.0,x,,is,The land,fertile
+123,Farm is typically used for raising crops. When is this possible?,The farm has fertile soil.,0.0,6.0,6.0,9.0,x,,has,fertile soil,
+124,Farm is typically used for raising crops. When is this possible?,When crops are growing on a farm.,0.0,23.0,23.0,9.0,x,,growing,crops,
+125,You can typically use kings highway for driving. When is this possible?,You have a car.,0.0,4.0,4.0,5.0,x,,have,a car,
+126,You can typically use kings highway for driving. When is this possible?,there has a car,0.0,4.0,4.0,8.0,x,,has,a car,
+127,You can typically use kings highway for driving. When is this possible?,The car is running smoothly.,0.0,1.0,1.0,34.0,x,,running,The car,
+128,You can typically use kings highway for driving. When is this possible?,The kings highway is under construction.,,1.0,1.0,8.0,x,,is,The kings highway,under construction
+129,You can typically use kings highway for driving. When is this possible?,You have to drive fast,0.0,16.0,16.0,19.0,x,,drive,,
+130,You can typically use kings highway for driving. When is this possible?,When you live near kings highway.,0.0,2.0,2.0,11.0,x,,live,,
+131,You can typically use entertaining professional entertainers. When is this impossible?,Entertainers are talented.,0.0,1.0,1.0,17.0,x,,are,Entertainers,talented
+132,You can typically use entertaining professional entertainers. When is this impossible?,You have insufficient payment,17.0,1.0,18.0,19.0,x,,have,insufficient payment,
+133,You can typically use entertaining professional entertainers. When is this impossible?,INVALID,7.0,4.0,11.0,8.0,x,,,,
+134,You can typically use entertaining professional entertainers. When is this impossible?,When the professional entertainer is too expensive to book.,0.0,7.0,7.0,25.0,x,,is,the professional entertainer,too expensive to book
+135,You can typically use entertaining professional entertainers. When is this impossible?,if professional entertainers are unavailable,33.0,214.0,247.0,116.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,are,professional entertainers,unavailable
+136,You can typically use entertaining professional entertainers. When is this impossible?,INVALID,,1.0,1.0,1.0,x,,,,
+137,Dish can typically be used to hold food. When is this impossible?,When the food is larger than the dish.,46.0,2.0,48.0,60.0,x,,is,the food,larger than the dish
+138,Dish can typically be used to hold food. When is this impossible?,The dish is cracked,0.0,2.0,2.0,31.0,x,,cracked,The dish,
+139,Dish can typically be used to hold food. When is this impossible?,The dish is cracked.,0.0,1.0,1.0,6.0,x,,cracked,The dish,
+140,Dish can typically be used to hold food. When is this impossible?,dish is free from holes,0.0,26.0,26.0,21.0,x,,is,dish,free from holes
+141,Dish can typically be used to hold food. When is this impossible?,The dish shattered on the floor.,0.0,2.0,2.0,12.0,x,,shattered,,
+142,Family room is typically used for hanging out. When is this impossible?,When the family room is empty.,1.0,19.0,20.0,15.0,x,,is,the family room,empty
+143,Family room is typically used for hanging out. When is this impossible?,The family room is being remodeled.,0.0,5.0,5.0,14.0,x,,remodeled,The family room,
+144,Family room is typically used for hanging out. When is this impossible?,When your family lives too far away to come visit.,34.0,21.0,55.0,45.0,x,,lives,,
+145,Family room is typically used for hanging out. When is this impossible?,when the family room is used unwisely,24.0,62.0,86.0,36.0,x,,used,the family room,
+146,Family room is typically used for hanging out. When is this impossible?,The family room is being fumigated.,0.0,2.0,2.0,23.0,x,,being,The family room,fumigated
+147,Penny are typically used in currency exchange. When is this impossible?,When using a vending machine that takes the lowest value of a nickel. ,59.0,7.0,66.0,65.0,x,,takes,the lowest value of a nickel,
+148,Penny are typically used in currency exchange. When is this impossible?,The currency is being exchanged online.,0.0,1.0,1.0,10.0,x,,exchanged,The currency,
+149,Penny are typically used in currency exchange. When is this impossible?,when penny is unavailable,0.0,19.0,19.0,16.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,when penny,unavailable
+150,Penny are typically used in currency exchange. When is this impossible?,Payment does not involve cash,14.0,2.0,16.0,25.0,,[Rule 5 Violation] Avoid using negative language.,involve,cash,Payment
+151,Penny are typically used in currency exchange. When is this impossible?,The penny has been smashed on the train tracks.,0.0,10.0,10.0,30.0,x,,smashed,The penny,
+152,Bookshelf can typically be used for supporting stereo. When is this possible?,The stereo fits on the bookshelf.,0.0,1.0,1.0,14.0,x,,fits,The stereo,
+153,Bookshelf can typically be used for supporting stereo. When is this possible?,The bookshelf is sturdy.,0.0,2.0,2.0,38.0,x,,is,The bookshelf,sturdy
+154,Bookshelf can typically be used for supporting stereo. When is this possible?,The bookshelf is strong.,0.0,1.0,1.0,15.0,x,,is,The bookshelf,strong
+155,Bookshelf can typically be used for supporting stereo. When is this possible?,Bookshelf should have enough space,2.0,14.0,16.0,25.0,x,,have,enough space,
+156,Bookshelf can typically be used for supporting stereo. When is this possible?,When the bookshelf is assembled correctly and is strong.,0.0,5.0,5.0,24.0,x,,assembled,the bookshelf,
+157,Boundary are typically used for marking one's territory. When is this possible?,When two countries agree on the boundary border.,0.0,3.0,3.0,36.0,x,,agree,on the boundary border,
+158,Boundary are typically used for marking one's territory. When is this possible?,A country needs to mark its territory.,0.0,1.0,1.0,45.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,needs,to mark its territory,
+159,Boundary are typically used for marking one's territory. When is this possible?,when we want to be separated,46.0,8.0,54.0,56.0,x,,want,to be separated,
+160,Boundary are typically used for marking one's territory. When is this possible?,One has a boundary marker.,0.0,3.0,3.0,16.0,x,,has,a boundary marker,
+161,Boundary are typically used for marking one's territory. When is this possible?,When countries are landlocked.,0.0,10.0,10.0,31.0,x,,are,countries,
+162,Looking through telescope can typically be used for bird watching. When is this impossible?,the telescope has poor lenses,16.0,12.0,28.0,43.0,x,,has,poor lenses,
+163,Looking through telescope can typically be used for bird watching. When is this impossible?,When its dark outside.,57.0,4.0,61.0,71.0,x,,,,
+164,Looking through telescope can typically be used for bird watching. When is this impossible?,You are birdwatching at night.,0.0,2.0,2.0,46.0,x,,are,You,birdwatching
+165,Looking through telescope can typically be used for bird watching. When is this impossible?,When the birds have flown south for the winter.,0.0,8.0,8.0,14.0,x,,flown,the birds,
+166,Looking through telescope can typically be used for bird watching. When is this impossible?,You are bird watching at night.,0.0,4.0,4.0,26.0,x,,are,You,bird watching at night
+167,Setting cup on table is typically used for having hand free. When is this possible?,when table is available,0.0,17.0,17.0,14.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,table,available
+168,Setting cup on table is typically used for having hand free. When is this possible?,There is a table nearby.,13.0,20.0,33.0,31.0,x,,is,a table,
+169,Setting cup on table is typically used for having hand free. When is this possible?,You are holding a cup.,93.0,1.0,94.0,104.0,x,,holding,a cup,
+170,Setting cup on table is typically used for having hand free. When is this possible?,The table has a coaster for cups.,0.0,2.0,2.0,14.0,x,,has,a coaster for cups,
+171,You can typically use broadcast studio to present tv shows. When is this impossible?,When the scenes of a tv show require you being outside.,0.0,1.0,1.0,14.0,x,,require,being outside,you
+172,You can typically use broadcast studio to present tv shows. When is this impossible?,When the studio is closed.,0.0,95.0,95.0,39.0,x,,is,the studio,closed
+173,You can typically use broadcast studio to present tv shows. When is this impossible?,the studio should be properly equipped,15.0,20.0,35.0,36.0,x,,be,the studio,properly equipped
+174,You can typically use broadcast studio to present tv shows. When is this impossible?,TV shows are about the outdoors.,0.0,5.0,5.0,12.0,x,,are,TV shows,about the outdoors
+175,You can typically use broadcast studio to present tv shows. When is this impossible?,The tv signal is out.,24.0,1.0,25.0,36.0,x,,is,The tv signal,out
+176,Spiral binding can typically be used with calendars. When is this possible?,The spiral binding hold pages of a diary.,0.0,1.0,1.0,18.0,x,,binding,,
+177,Spiral binding can typically be used with calendars. When is this possible?,The calendar is made of paper.,0.0,4.0,4.0,12.0,x,,made,The calendar,of paper
+178,Spiral binding can typically be used with calendars. When is this possible?,The calendar is printed on multiple pages.,0.0,6.0,6.0,35.0,x,,printed,The calendar,
+179,Spiral binding can typically be used with calendars. When is this possible?,The calendars are made of paper.,0.0,1.0,1.0,10.0,x,,made,The calendars,of paper
+180,Spiral binding can typically be used with calendars. When is this possible?,when many papers are used for the calendar,11.0,15.0,26.0,44.0,x,,used,many papers,for the calendar
+181,You can typically use finger ##print guide paper in paper cutter. When is this possible?,INVALID,,51.0,51.0,4.0,x,,,,
+182,You can typically use finger ##print guide paper in paper cutter. When is this possible?,INVALID,,1.0,1.0,4.0,x,,,,
+183,Cold faucet can typically be used for dispensing cold water. When is this possible?,The faucet is hooked up to a water line.,0.0,2.0,2.0,15.0,x,,hooked,The faucet,to a water line
+184,Cold faucet can typically be used for dispensing cold water. When is this possible?,Cold faucet is in the on position.,0.0,3.0,3.0,35.0,x,,is,Cold faucet,in the on position
+185,Cold faucet can typically be used for dispensing cold water. When is this possible?,plumbing is good,13.0,56.0,69.0,35.0,x,,is,plumbing,good
+186,Cold faucet can typically be used for dispensing cold water. When is this possible?,The temperature is low.,0.0,2.0,2.0,20.0,x,,is,The temperature,low
+187,Cold faucet can typically be used for dispensing cold water. When is this possible?,The faucet is turned on.,0.0,2.0,2.0,49.0,x,,turned,The faucet,
+188,Cold faucet can typically be used for dispensing cold water. When is this possible?,When the cold faucet is turned on.,0.0,5.0,5.0,19.0,x,,turned,the cold faucet,
+189,Clothing closet can typically be used to hang up shirts. When is this impossible?,The closet door is locked.,0.0,1.0,1.0,22.0,x,,locked,The closet door,
+190,Clothing closet can typically be used to hang up shirts. When is this impossible?,The closet has no hanger bar.,0.0,1.0,1.0,25.0,,[Rule 5 Violation] Avoid using negative language.,has,no hanger bar,
+191,Clothing closet can typically be used to hang up shirts. When is this impossible?,There are no hooks or hangers available.,0.0,0.0,0.0,13.0,,[Rule 5 Violation] Avoid using negative language.,are,no hooks or hangers available,
+192,Clothing closet can typically be used to hang up shirts. When is this impossible?,When the clothing closet only has shelves.,12.0,1.0,13.0,16.0,x,,has,shelves,
+193,Clothing closet can typically be used to hang up shirts. When is this impossible?,when clothing closet is very costly to afford,0.0,106.0,106.0,25.0,x,,is,clothing closet,very costly to afford
+194,Clothing closet can typically be used to hang up shirts. When is this impossible?,The closet is missing a rod.,0.0,13.0,13.0,16.0,x,,missing,a rod,
+195,Using computer can typically be used for watching movie. When is this impossible?,The computer has low or zero power,184.0,8.0,192.0,190.0,x,,has,low or zero power,
+196,Using computer can typically be used for watching movie. When is this impossible?,The computer screen is short circuiting. ,12.0,6.0,18.0,30.0,x,,is,The computer screen,short circuiting
+197,Using computer can typically be used for watching movie. When is this impossible?,The computer is plugged in.,25.0,15.0,40.0,39.0,x,,plugged,The computer,
+198,Using computer can typically be used for watching movie. When is this impossible?,The computer is unplugged.,,0.0,0.0,11.0,x,,is,The computer,unplugged
+199,Using computer can typically be used for watching movie. When is this impossible?,when the theatre is closed,0.0,19.0,19.0,27.0,x,,is,the theatre,closed
+200,Making sure re healthy can typically be used for self maintenance. When is this possible?,You monitor your health.,0.0,6.0,6.0,42.0,x,,monitor,your health,
+201,Making sure re healthy can typically be used for self maintenance. When is this possible?,INVALID,,10.0,10.0,2.0,x,,,,
+202,Making sure re healthy can typically be used for self maintenance. When is this possible?,INVALID,,25.0,25.0,14.0,x,,,,
+203,Making sure re healthy can typically be used for self maintenance. When is this possible?,Eating healthy foods makes you lose fat.,,1.0,1.0,18.0,x,,makes,you lose fat,
+204,Making sure re healthy can typically be used for self maintenance. When is this possible?,When you own exercise equipment ,36.0,3.0,39.0,40.0,x,,own,exercise equipment,
+205,You can typically use saloon and have few beers. When is this possible?,You are relaxing.,0.0,25.0,25.0,14.0,x,,are,You,relaxing
+206,You can typically use saloon and have few beers. When is this possible?,You are of legal drinking age.,1.0,1.0,2.0,13.0,x,,are,You,of legal drinking age
+207,You can typically use saloon and have few beers. When is this possible?,When COVID has a vaccine.,175.0,17.0,192.0,188.0,x,,has,a vaccine,
+208,You can typically use saloon and have few beers. When is this possible?,The saloon has a liquor license.,22.0,7.0,29.0,27.0,x,,has,a liquor license,
+209,You can typically use saloon and have few beers. When is this possible?,The saloon is open for business.,0.0,2.0,2.0,52.0,x,,is,The saloon,open for business
+210,Hair dryer are typically used to style hair. When is this possible?,The hair dryer is plugged in.,12.0,1.0,13.0,31.0,x,,plugged,The hair dryer,
+211,Hair dryer are typically used to style hair. When is this possible?,Your hair is wet.,30.0,6.0,36.0,36.0,x,,is,Your hair,wet
+212,Hair dryer are typically used to style hair. When is this possible?,The hair dryer is plugged into electricity.,0.0,11.0,11.0,31.0,x,,plugged,The hair dryer,into electricity
+213,Hair dryer are typically used to style hair. When is this possible?,when there is electricity,18.0,24.0,42.0,33.0,x,,is,electricity,
+214,Hair dryer are typically used to style hair. When is this possible?,The hair dryer is plugged into an outlet.,1.0,1.0,2.0,9.0,x,,plugged,The hair dryer,into an outlet
+215,You can typically use acoustic guitar when playing. When is this possible?,strings of the guitar are good,,41.0,41.0,23.0,x,,are,strings of the guitar,good
+216,You can typically use acoustic guitar when playing. When is this possible?,You know how to play a guitar.,44.0,33.0,77.0,63.0,x,,know,how to play a guitar,
+217,You can typically use acoustic guitar when playing. When is this possible?,You know how to play guitar.,3.0,2.0,5.0,15.0,x,,know,how to play guitar,
+218,You can typically use acoustic guitar when playing. When is this possible?,You are a musician in a band.,17.0,1.0,18.0,21.0,x,,are,You,a musician in a band
+219,You can typically use acoustic guitar when playing. When is this possible?,You can play a guitar when in a band.,30.0,3.0,33.0,51.0,x,,play,a guitar,
+220,Reading to children is typically used for helping learn. When is this impossible?,Children are unable to hear.,0.0,1.0,1.0,35.0,x,,are,Children,unable to hear
+221,Reading to children is typically used for helping learn. When is this impossible?,When children are doing maths.,1.0,1.0,2.0,22.0,x,,doing,maths,
+222,Reading to children is typically used for helping learn. When is this impossible?,the reader should be understandable,0.0,19.0,19.0,21.0,x,,be,the reader,understandable
+223,Reading to children is typically used for helping learn. When is this impossible?,INVALID,,14.0,14.0,2.0,x,,,,
+224,Reading to children is typically used for helping learn. When is this impossible?,You are illiterate.,0.0,5.0,5.0,6.0,x,,are,You,illiterate
+225,Snare drum can typically be used for hitting. When is this possible?,"When you have two drumsticks, and know how to play the drums.",0.0,2.0,2.0,30.0,x,,know,how to play the drums,
+226,Snare drum can typically be used for hitting. When is this possible?,as long as it has snares,4.0,42.0,46.0,22.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,has,snares,
+227,Snare drum can typically be used for hitting. When is this possible?,You have a drum stick.,0.0,3.0,3.0,11.0,x,,have,a drum stick,
+228,Snare drum can typically be used for hitting. When is this possible?,You have a snare drum.,0.0,12.0,12.0,55.0,x,,have,a snare drum,
+229,Snare drum can typically be used for hitting. When is this possible?,A person plays the snare drum for band.,0.0,1.0,1.0,12.0,x,,plays,the snare drum for band,
+230,Chain are typically used to tie down airplane. When is this impossible?,The chain is rusty.,51.0,2.0,53.0,55.0,x,,is,The chain,rusty
+231,Chain are typically used to tie down airplane. When is this impossible?,When an airplane is flying in the sky.,0.0,2.0,2.0,27.0,x,,flying,an airplane,
+232,Chain are typically used to tie down airplane. When is this impossible?,Airplane is in the sky,0.0,31.0,31.0,16.0,x,,is,Airplane,in the sky
+233,Chain are typically used to tie down airplane. When is this impossible?,The airplane is flying.,,1.0,1.0,18.0,x,,flying,The airplane,
+234,Chain are typically used to tie down airplane. When is this impossible?,Chain has a broken link,0.0,4.0,4.0,24.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,has,a broken link,
+235,Tool can typically be used for extending capacity. When is this impossible?,When the tool is a saw which can only chop something.,0.0,2.0,2.0,37.0,x,,is,the tool,a
+236,Tool can typically be used for extending capacity. When is this impossible?,The tool is used correctly. ,0.0,2.0,2.0,27.0,x,,used,The tool,
+237,Tool can typically be used for extending capacity. When is this impossible?,Tool is faulty,11.0,10.0,21.0,17.0,x,,is,Tool,faulty
+238,Tool can typically be used for extending capacity. When is this impossible?,tool can is defective,1.0,58.0,59.0,14.0,x,,is,tool,defective
+239,Tool can typically be used for extending capacity. When is this impossible?,The tool decreases the capacity.,0.0,1.0,1.0,28.0,x,,decreases,the capacity,
+240,Chess set can typically be used for playing games. When is this possible?,When you have a partner.,0.0,1.0,1.0,9.0,x,,have,a partner,
+241,Chess set can typically be used for playing games. When is this possible?,you should know to play chess set,0.0,19.0,19.0,19.0,x,,play,chess set,
+242,Chess set can typically be used for playing games. When is this possible?,You have a partner to play chess against.,0.0,2.0,2.0,15.0,x,,have,a partner to play chess against,
+243,Chess set can typically be used for playing games. When is this possible?,When two people know how to play chest.,0.0,1.0,1.0,12.0,x,,know,how to play chest,
+244,Book can typically be used for reading under covers. When is this possible?,You are in bed.,0.0,6.0,6.0,5.0,x,,are,You,in bed
+245,Book can typically be used for reading under covers. When is this possible?,INVALID,,12.0,12.0,2.0,x,,,,
+246,Book can typically be used for reading under covers. When is this possible?,I have a flashlight to illuminate the book.,0.0,2.0,2.0,13.0,x,,have,a flashlight to illuminate the book,
+247,Book can typically be used for reading under covers. When is this possible?,book should have the pages in order,0.0,2.0,2.0,16.0,x,,have,the pages,
+248,Book can typically be used for reading under covers. When is this possible?,Books can be used for reading under covers when the reader has a flashlight available.,0.0,2.0,2.0,14.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,used,Books,for reading under covers
+249,You can typically use mailbox ##es people to post letters into. When is this possible?,The letters have stamps.,0.0,9.0,9.0,14.0,x,,have,stamps,
+250,You can typically use mailbox ##es people to post letters into. When is this possible?,The letter has a stamp on it.,0.0,16.0,16.0,22.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,has,a stamp on it,
+251,You can typically use mailbox ##es people to post letters into. When is this possible?,You have a letters to post.,120.0,11.0,131.0,142.0,x,,have,a letters to post,
+252,You can typically use mailbox ##es people to post letters into. When is this possible?,You write a letter ,0.0,13.0,13.0,14.0,x,,write,a letter,
+253,You can typically use mailbox ##es people to post letters into. When is this possible?,When you take a letter to a street postbox.,0.0,100.0,100.0,36.0,x,,take,a letter,to a street postbox
+254,You can typically use mailbox ##es people to post letters into. When is this possible?,when post boxes are available,52.0,19.0,71.0,55.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,are,post boxes,available
+255,You can typically use skylight in car. When is this impossible?,when you travel in daytime,27.0,53.0,80.0,45.0,x,,travel,,
+256,You can typically use skylight in car. When is this impossible?,When the car is a convertible ,,31.0,31.0,21.0,x,,is,the car,a convertible
+257,You can typically use skylight in car. When is this impossible?,The skylight is in the house.,0.0,4.0,4.0,11.0,x,,is,The skylight,in the house
+258,You can typically use skylight in car. When is this impossible?,It is daytime,0.0,28.0,28.0,18.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,is,It,daytime
+259,You can typically use skylight in car. When is this impossible?,The power source to the skylight is cut off,0.0,3.0,3.0,31.0,x,,cut,The power source to the skylight,
+260,You can typically use skylight in car. When is this impossible?,The car does not come with a skylight.,1.0,1.0,2.0,41.0,,[Rule 5 Violation] Avoid using negative language.,come,The car,
+261,Making better world can typically be used to make people happy. When is this possible?,people are happy with the world,14.0,8.0,22.0,36.0,x,,are,people,happy with the world
+262,Making better world can typically be used to make people happy. When is this possible?,People are cooperative.,0.0,5.0,5.0,25.0,x,,are,People,cooperative
+263,Making better world can typically be used to make people happy. When is this possible?,People are positive in nature.,0.0,2.0,2.0,50.0,x,,are,People,positive in nature
+264,Making better world can typically be used to make people happy. When is this possible?,You try do something for people,0.0,17.0,17.0,19.0,x,,try,do something for people,
+265,Liquor glass can typically be used for serving alcoholic beverages. When is this impossible?,The liquor glass is full of water. ,0.0,4.0,4.0,10.0,x,,is,The liquor glass,full of water
+266,Liquor glass can typically be used for serving alcoholic beverages. When is this impossible?,When the liquor glass is smashed.,0.0,6.0,6.0,14.0,x,,smashed,the liquor glass,
+267,Liquor glass can typically be used for serving alcoholic beverages. When is this impossible?,You are too young to drink alcohol. ,0.0,1.0,1.0,63.0,x,,are,You,too young to drink alcohol
+268,Liquor glass can typically be used for serving alcoholic beverages. When is this impossible?,when the liquor glass breaks,0.0,12.0,12.0,33.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,breaks,the liquor glass,
+269,Liquor glass can typically be used for serving alcoholic beverages. When is this impossible?,If the glass is chipped,0.0,6.0,6.0,36.0,x,,is,the glass,chipped
+270,Liquor glass can typically be used for serving alcoholic beverages. When is this impossible?,The glass has liquor inside. ,0.0,2.0,2.0,25.0,x,,has,liquor,
+271,You can typically use taping television show - saving. When is this possible?,When the tape has more than or equal to enough memory capacity needed to save the television show.,85.0,15.0,100.0,88.0,x,,has,more than or equal to enough memory capacity needed to save the television show,
+272,You can typically use taping television show - saving. When is this possible?,When you used a tape and VCR to record television shows.,0.0,13.0,13.0,37.0,x,,used,a tape and VCR,to record television shows
+273,You can typically use taping television show - saving. When is this possible?,You want to watch it later.,1.0,10.0,11.0,17.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,want,to watch it later,
+274,You can typically use taping television show - saving. When is this possible?,INVALID,10.0,1.0,11.0,10.0,x,,,,
+275,You can typically use taping television show - saving. When is this possible?,The tape stays safe.,1.0,1.0,2.0,29.0,x,,stays,The tape,
+276,You can typically use taping television show - saving. When is this possible?,when the show is ready to be watched,1.0,67.0,68.0,26.0,x,,is,the show,ready to be watched
+277,City can typically be used by businesses. When is this possible?,You live in a city,0.0,11.0,11.0,16.0,x,,live,,
+278,City can typically be used by businesses. When is this possible?,When the city has many office buildings and companies.,0.0,2.0,2.0,22.0,x,,has,many office buildings and companies,
+279,City can typically be used by businesses. When is this possible?,The business has a license to operate.,0.0,2.0,2.0,8.0,x,,has,a license to operate,
+280,City can typically be used by businesses. When is this possible?,The city has many business buildings.,0.0,1.0,1.0,11.0,x,,has,many business buildings,
+281,City can typically be used by businesses. When is this possible?,The businesses have a storefront. ,0.0,1.0,1.0,25.0,x,,have,a storefront,
+282,Writing story can typically be used for enjoyment of others. When is this impossible?,if the story hurts the listener,0.0,53.0,53.0,27.0,x,,hurts,the listener,
+283,Writing story can typically be used for enjoyment of others. When is this impossible?,The story is boring.,0.0,1.0,1.0,20.0,x,,is,The story,boring
+284,Writing story can typically be used for enjoyment of others. When is this impossible?,There are no others.,0.0,9.0,9.0,38.0,,[Rule 5 Violation] Avoid using negative language.,are,no others,
+285,Writing story can typically be used for enjoyment of others. When is this impossible?,When you are secluded from everyone else.,0.0,2.0,2.0,25.0,x,,are,you,secluded from everyone else
+286,Writing story can typically be used for enjoyment of others. When is this impossible?,You are writing a sad story. ,0.0,4.0,4.0,11.0,x,,writing,a sad story,
+287,You can typically use learning new to excitement. When is this impossible?,You are curious to know something,0.0,25.0,25.0,21.0,x,,are,You,curious to know something
+288,You can typically use learning new to excitement. When is this impossible?,You learn something depressing. ,0.0,5.0,5.0,21.0,x,,learn,something depressing,
+289,You can typically use learning new to excitement. When is this impossible?,INVALID,8.0,11.0,19.0,11.0,x,,,,
+290,You can typically use learning new to excitement. When is this impossible?,learning becomes difficult,0.0,18.0,18.0,16.0,x,,becomes,learning,difficult
+291,You can typically use learning new to excitement. When is this impossible?,INVALID,12.0,2.0,14.0,13.0,x,,,,
+292,Accordion can typically be used for annoying neighbors. When is this impossible?,when the keys of the accordion get struck,3.0,33.0,36.0,26.0,x,,struck,the keys of the accordion get,
+293,Accordion can typically be used for annoying neighbors. When is this impossible?,The neighbors are away on vacation.,1.0,4.0,5.0,11.0,x,,are,The neighbors,away
+294,Accordion can typically be used for annoying neighbors. When is this impossible?,The neighbors live out of hearing distance.,0.0,2.0,2.0,23.0,x,,live,,
+295,Accordion can typically be used for annoying neighbors. When is this impossible?,Your neighbors are deaf.,0.0,7.0,7.0,12.0,x,,are,Your neighbors,deaf
+296,Accordion can typically be used for annoying neighbors. When is this impossible?,When you live in a detached house in the middle of a field.,,8.0,8.0,34.0,x,,live,,
+297,Going to mall can typically be used for buying birthday present. When is this impossible?,The mall is closed.,68.0,33.0,101.0,75.0,x,,is,The mall,closed
+298,Going to mall can typically be used for buying birthday present. When is this impossible?,When the mall is closed.,0.0,2.0,2.0,12.0,x,,is,the mall,closed
+299,Going to mall can typically be used for buying birthday present. When is this impossible?,The mall is closed. ,0.0,2.0,2.0,14.0,x,,is,The mall,closed
+300,Going to mall can typically be used for buying birthday present. When is this impossible?,when the mall is closed,0.0,18.0,18.0,14.0,x,,is,the mall,closed
+301,Going to mall can typically be used for buying birthday present. When is this impossible?,You are out of money.,0.0,1.0,1.0,16.0,x,,are,You,out of money
+302,Committing suicide can typically be used against losers. When is this impossible?,when the loser feels to overcome the loss,0.0,32.0,32.0,21.0,x,,feels,to overcome the loss,
+303,Committing suicide can typically be used against losers. When is this impossible?,INVALID,59.0,6.0,65.0,78.0,x,,,,
+304,Committing suicide can typically be used against losers. When is this impossible?,INVALID,,1.0,1.0,3.0,x,,,,
+305,Committing suicide can typically be used against losers. When is this impossible?,"When the victim of suicide is a winner, loved by more people than they know.",0.0,7.0,7.0,52.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,loved,,
+306,Having rest is typically used for keeping balance. When is this possible?,You are tired.,0.0,5.0,5.0,29.0,x,,are,You,tired
+307,Having rest is typically used for keeping balance. When is this possible?,We are in free time,347.0,37.0,384.0,351.0,x,,are,We,in free time
+308,Having rest is typically used for keeping balance. When is this possible?,Rest gives you energy.,43.0,36.0,79.0,44.0,x,,gives,energy,you
+309,Having rest is typically used for keeping balance. When is this possible?,When resting flat on a bed.,0.0,1.0,1.0,7.0,x,,resting,,
+310,Having rest is typically used for keeping balance. When is this possible?,when we are very tired,1.0,18.0,19.0,15.0,x,,are,we,very tired
+311,Gaining more land can typically be used for building housing development. When is this impossible?,The land is a environmentally protected area.,0.0,5.0,5.0,29.0,x,,is,The land,a environmentally protected area
+312,Gaining more land can typically be used for building housing development. When is this impossible?,land is the place of dried river,1.0,84.0,85.0,52.0,x,,is,land,the place of dried river
+313,Gaining more land can typically be used for building housing development. When is this impossible?,The land is in an animal sanctuary. ,0.0,1.0,1.0,35.0,x,,is,The land,in an animal sanctuary
+314,Gaining more land can typically be used for building housing development. When is this impossible?,There is no land for consturct building,103.0,5.0,108.0,119.0,,[Rule 5 Violation] Avoid using negative language.,is,no land for consturct building,
+315,Gaining more land can typically be used for building housing development. When is this impossible?,The land is in a flood zone.,0.0,6.0,6.0,13.0,x,,is,The land,in a flood zone
+316,Receiving degree is typically used for validation of knowledge. When is this possible?,You receive degree when you pass examinations.,77.0,47.0,124.0,221.0,x,,receive,degree,
+317,Receiving degree is typically used for validation of knowledge. When is this possible?,When you graduate school.,0.0,34.0,34.0,31.0,x,,graduate,school,
+318,Receiving degree is typically used for validation of knowledge. When is this possible?,When you receive a degree after finishing university.,0.0,2.0,2.0,29.0,x,,receive,a degree,
+319,Receiving degree is typically used for validation of knowledge. When is this possible?,have good knowledge of the subject,4.0,18.0,22.0,27.0,x,,have,good knowledge of the subject,
+320,Receiving degree is typically used for validation of knowledge. When is this possible?,You make good grades.,0.0,1.0,1.0,16.0,x,,make,good grades,
+321,Museum wing can typically be used for learning for change. When is this impossible?,The museum is closed.,0.0,2.0,2.0,16.0,x,,is,The museum,closed
+322,Museum wing can typically be used for learning for change. When is this impossible?,The museum is closed for a Holiday.,0.0,3.0,3.0,26.0,x,,is,The museum,closed
+323,Museum wing can typically be used for learning for change. When is this impossible?,when nothing can be learnt,2.0,82.0,84.0,15.0,x,,learnt,nothing,
+324,Pleasing parents can typically be used for getting clothes. When is this impossible?,You owe your parents money.,0.0,2.0,2.0,39.0,x,,owe,money,your parents
+325,Pleasing parents can typically be used for getting clothes. When is this impossible?,Parents ran out of money.,,6.0,6.0,15.0,x,,ran,of money,Parents
+326,Pleasing parents can typically be used for getting clothes. When is this impossible?,when parents are in debt,13.0,24.0,37.0,35.0,x,,are,parents,in debt
+327,Pleasing parents can typically be used for getting clothes. When is this impossible?,The parents are too poor to buy clothes.,0.0,5.0,5.0,11.0,x,,are,The parents,too poor to buy clothes
+328,Pleasing parents can typically be used for getting clothes. When is this impossible?,The parents are angry.,10.0,1.0,11.0,35.0,x,,are,The parents,angry
+329,Losing consciousness can typically be used with sleepy people. When is this possible?,having drugs for sedation,0.0,33.0,33.0,25.0,x,,having,drugs,
+330,Losing consciousness can typically be used with sleepy people. When is this possible?,A sleepy person goes to bed.,0.0,1.0,1.0,13.0,x,,goes,,
+331,Losing consciousness can typically be used with sleepy people. When is this possible?,You are sleepy.,0.0,13.0,13.0,12.0,x,,are,You,sleepy
+332,Losing consciousness can typically be used with sleepy people. When is this possible?,People are in bed.,25.0,1.0,26.0,27.0,x,,are,People,in bed
+333,Losing consciousness can typically be used with sleepy people. When is this possible?,After working a long shift at work,0.0,3.0,3.0,25.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,working,a long shift,
+334,Music stand can typically be used for holding sheetmusic. When is this possible?,You are in band practice.,0.0,2.0,2.0,32.0,x,,are,You,in band practice
+335,Music stand can typically be used for holding sheetmusic. When is this possible?,When music stands are used in a orchestra.,33.0,11.0,44.0,43.0,x,,used,music stands,
+336,Music stand can typically be used for holding sheetmusic. When is this possible?,when musician wants to be free,0.0,10.0,10.0,82.0,x,,wants,to be free,
+337,Music stand can typically be used for holding sheetmusic. When is this possible?,The music stand is unfolded.,0.0,1.0,1.0,28.0,x,,is,The music stand,unfolded
+338,Music stand can typically be used for holding sheetmusic. When is this possible?,When the music stand is assembled correctly. ,0.0,3.0,3.0,78.0,x,,assembled,the music stand,
+339,Mayor can typically be used for leadership. When is this impossible?,When the Mayor is dead.,0.0,2.0,2.0,5.0,x,,is,the Mayor,dead
+340,Mayor can typically be used for leadership. When is this impossible?,The mayor is corrupt.,2.0,1.0,3.0,22.0,x,,is,The mayor,corrupt
+341,Mayor can typically be used for leadership. When is this impossible?,when the mayor misuses the leadership,51.0,37.0,88.0,60.0,x,,misuses,the leadership,
+342,Mayor can typically be used for leadership. When is this impossible?,The Mayor is a corrupt person.,0.0,1.0,1.0,20.0,x,,is,The Mayor,a corrupt person
+343,Mayor can typically be used for leadership. When is this impossible?,When mayor is not into politics,3.0,91.0,94.0,24.0,,[Rule 5 Violation] Avoid using negative language.,is,mayor,into politics
+344,Acoustic ceiling is typically used for dampening sound. When is this impossible?,Sound is happening outdoors.,0.0,1.0,1.0,28.0,x,,happening,Sound,
+345,Acoustic ceiling is typically used for dampening sound. When is this impossible?,The sound is too loud.,,1.0,1.0,43.0,x,,is,The sound,too loud
+346,Acoustic ceiling is typically used for dampening sound. When is this impossible?,when noise gets uncontrolled,4.0,62.0,66.0,21.0,x,,gets,noise,uncontrolled
+347,Acoustic ceiling is typically used for dampening sound. When is this impossible?,Its not posssible in rooms with noise above a certai decibel.,5.0,28.0,33.0,75.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,,,
+348,Acoustic ceiling is typically used for dampening sound. When is this impossible?,When the ceiling has a hole in it.,1.0,0.0,1.0,7.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,has,a hole in it,
+349,You can typically use accommodations for sleeping. When is this possible?,When the accommodation has a bed.,0.0,1.0,1.0,14.0,x,,has,a bed,
+350,You can typically use accommodations for sleeping. When is this possible?,threre has a good room,0.0,5.0,5.0,22.0,x,,has,a good room,
+351,You can typically use accommodations for sleeping. When is this possible?,There is a bed in the room.,0.0,2.0,2.0,8.0,x,,is,a bed,
+352,You can typically use accommodations for sleeping. When is this possible?,The accommodations have a bed.,1.0,5.0,6.0,27.0,x,,have,a bed,
+353,You can typically use accommodations for sleeping. When is this possible?,When your accommodation is a hotel.,1.0,23.0,24.0,32.0,x,,is,your accommodation,a hotel
+354,You can typically use accommodations for sleeping. When is this possible?,accommodations are free from disturbance,25.0,10.0,35.0,42.0,x,,are,accommodations,free from disturbance
+355,You can typically use hardware shop to fix hardware. When is this impossible?,The shop is closed.,2.0,1.0,3.0,9.0,x,,is,The shop,closed
+356,You can typically use hardware shop to fix hardware. When is this impossible?,When the hardware store is closed at night.,0.0,6.0,6.0,32.0,x,,closed,the hardware store,
+357,You can typically use hardware shop to fix hardware. When is this impossible?,When the hardware shop is closed.,0.0,2.0,2.0,9.0,x,,is,the hardware shop,closed
+358,You can typically use hardware shop to fix hardware. When is this impossible?,hardware shop is unavailable,6.0,14.0,20.0,22.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,hardware shop,unavailable
+359,You can typically use hardware shop to fix hardware. When is this impossible?,When the hardware is outdated and obsolete. ,1.0,183.0,184.0,26.0,x,,is,the hardware,outdated and obsolete
+360,You can typically use hardware shop to fix hardware. When is this impossible?,When there is no hardware to be fixed.,,122.0,122.0,32.0,,[Rule 5 Violation] Avoid using negative language.,is,no hardware to be fixed,
+361,Lying can typically be used for getting away with things. When is this possible?,Someone believes your lie.,0.0,2.0,2.0,14.0,x,,believes,your lie,
+362,Lying can typically be used for getting away with things. When is this possible?,When you are a good and convincing liar. ,0.0,3.0,3.0,33.0,x,,are,you,a good
+363,Lying can typically be used for getting away with things. When is this possible?,Lies are believable.,0.0,2.0,2.0,15.0,x,,are,Lies,believable
+364,Lying can typically be used for getting away with things. When is this possible?,Lying about being sick to get a day off work.,0.0,2.0,2.0,14.0,x,,Lying,,about being sick
+365,Lying can typically be used for getting away with things. When is this possible?,when you believe a liar,5.0,20.0,25.0,28.0,x,,believe,a liar,
+366,Oven can typically be used to get rid of story witches. When is this possible?,The witch fits inside the oven.,35.0,12.0,47.0,73.0,x,,fits,The witch,
+367,Oven can typically be used to get rid of story witches. When is this possible?,Oven is connected to electrical supply.,16.0,2.0,18.0,22.0,x,,connected,Oven,to electrical supply
+368,Oven can typically be used to get rid of story witches. When is this possible?,When reading the story book Hansel and Gretal.,12.0,2.0,14.0,18.0,x,,reading,the story book Hansel and Gretal,
+369,Oven can typically be used to get rid of story witches. When is this possible?,INVALID,,47.0,47.0,2.0,x,,,,
+370,Oven can typically be used to get rid of story witches. When is this possible?,When she can fit in the oven.,18.0,1.0,19.0,23.0,x,,fit,she,
+371,You can typically use bread boxes to keep bread fresher longer. When is this possible?,when the bread boxes are kept in a refrigerator,1.0,10.0,11.0,29.0,x,,kept,the bread boxes,
+372,You can typically use bread boxes to keep bread fresher longer. When is this possible?,Bread box is in one piece,,4.0,4.0,41.0,x,,is,Bread box,in one piece
+373,You can typically use bread boxes to keep bread fresher longer. When is this possible?,The bread box shuts properly.,,1.0,1.0,12.0,x,,,,
+374,You can typically use bread boxes to keep bread fresher longer. When is this possible?,You have a large bread box.,0.0,19.0,19.0,18.0,x,,have,a large bread box,
+375,You can typically use bread boxes to keep bread fresher longer. When is this possible?,The bread box is closed.,1.0,1.0,2.0,14.0,x,,is,The bread box,closed
+376,Machine can typically be used to solder metal. When is this possible?,When the machine is plugged in or has fuel to start.,0.0,2.0,2.0,27.0,x,,has,fuel to start,
+377,Machine can typically be used to solder metal. When is this possible?,metal should melt,0.0,16.0,16.0,34.0,x,,should,melt,
+378,Machine can typically be used to solder metal. When is this possible?,The machine is a soldering iron.,0.0,4.0,4.0,20.0,x,,is,The machine,a soldering iron
+379,Seeing particular program are typically used for fun. When is this impossible?,The program is about the holocaust.,0.0,6.0,6.0,8.0,x,,is,The program,about the holocaust
+380,Seeing particular program are typically used for fun. When is this impossible?,the particular programme is serious,9.0,11.0,20.0,54.0,x,,is,the particular programme,serious
+381,Seeing particular program are typically used for fun. When is this impossible?,The program is boring.,13.0,1.0,14.0,16.0,x,,is,The program,boring
+382,Seeing particular program are typically used for fun. When is this impossible?,When the particular program is off.,0.0,1.0,1.0,45.0,x,,is,the particular program,off
+383,Seeing particular program are typically used for fun. When is this impossible?,The program is depressing.,0.0,5.0,5.0,13.0,x,,is,The program,depressing
+384,You can typically use luvox to treat obsessive compulsive disorder. When is this possible?,You are seeing a doctor.,0.0,8.0,8.0,10.0,x,,seeing,a doctor,
+385,You can typically use luvox to treat obsessive compulsive disorder. When is this possible?,Luvox helps to decrease repeated work,48.0,115.0,163.0,61.0,x,,helps,to decrease repeated work,
+386,You can typically use luvox to treat obsessive compulsive disorder. When is this possible?,You have obsessive compulsive disorder.,0.0,7.0,7.0,42.0,x,,have,obsessive compulsive disorder,
+387,You can typically use luvox to treat obsessive compulsive disorder. When is this possible?,When you get a doctor to prescribe Luvox. ,0.0,2.0,2.0,24.0,x,,get,a doctor to prescribe Luvox,
+388,You can typically use luvox to treat obsessive compulsive disorder. When is this possible?,When the doctor has prescribe luvox to you.,0.0,17.0,17.0,18.0,x,,prescribe,luvox,to you
+389,President can typically be used for leadership. When is this impossible?,The president commits crimes. ,0.0,1.0,1.0,15.0,x,,commits,crimes,
+390,President can typically be used for leadership. When is this impossible?,The President is a criminal.,,1.0,1.0,14.0,x,,is,The President,a criminal
+391,President can typically be used for leadership. When is this impossible?,The president has been impeached.,0.0,4.0,4.0,12.0,x,,been,The president,impeached
+392,President can typically be used for leadership. When is this impossible?,If people disagree about the president,1.0,6.0,7.0,41.0,x,,disagree,about the president,
+393,President can typically be used for leadership. When is this impossible?,INVALID,,56.0,56.0,17.0,x,,,,
+394,You can typically use blanket for keeping person warm. When is this impossible?,The blanket has holes in it.,0.0,1.0,1.0,8.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,has,holes,
+395,You can typically use blanket for keeping person warm. When is this impossible?,The person is hot. ,0.0,1.0,1.0,46.0,x,,is,The person,hot
+396,You can typically use blanket for keeping person warm. When is this impossible?,The blanket is very thin.,0.0,1.0,1.0,6.0,x,,is,The blanket,very thin
+397,You can typically use blanket for keeping person warm. When is this impossible?,When the blanket is smaller than the person.,0.0,4.0,4.0,19.0,x,,is,the blanket,smaller than the person
+398,You can typically use blanket for keeping person warm. When is this impossible?,the blanket is full of holes,0.0,7.0,7.0,14.0,x,,is,the blanket,full of holes
+399,Going to store can typically be used for buying food. When is this possible?,when the store has good food,0.0,10.0,10.0,23.0,x,,has,good food,
+400,Going to store can typically be used for buying food. When is this possible?,The store is closed.,0.0,3.0,3.0,7.0,x,,is,The store,closed
+401,Going to store can typically be used for buying food. When is this possible?,The store is open ,0.0,26.0,26.0,10.0,x,,is,The store,open
+402,Going to store can typically be used for buying food. When is this possible?,When the store is open and fully stocked. ,0.0,2.0,2.0,20.0,x,,is,the store,open and fully stocked
+403,Going to store can typically be used for buying food. When is this possible?,When the store is open.,,4.0,4.0,29.0,x,,is,the store,open
+404,You can typically use world - inhabiting. When is this possible?,the environment should be pollution free,45.0,80.0,125.0,56.0,x,,be,the environment,pollution free
+405,You can typically use world - inhabiting. When is this possible?,You are alive.,0.0,4.0,4.0,11.0,x,,are,You,alive
+406,You can typically use world - inhabiting. When is this possible?,You live at some place,0.0,141.0,141.0,19.0,x,,live,,
+407,You can typically use world - inhabiting. When is this possible?,INVALID,,15.0,15.0,15.0,x,,,,
+408,You can typically use world - inhabiting. When is this possible?,The object is uninhabitable.,50.0,1.0,51.0,52.0,x,,is,The object,uninhabitable
+409,Deoderant can typically be used to combat foul odors. When is this possible?,When deodorant is put on armpits.,4.0,4.0,8.0,22.0,x,,put,deodorant,on armpits
+410,Deoderant can typically be used to combat foul odors. When is this possible?,when the deodorant has pleasant smell,16.0,8.0,24.0,26.0,x,,has,,
+411,Deoderant can typically be used to combat foul odors. When is this possible?,Deodorant is applied to your body.,0.0,1.0,1.0,16.0,x,,applied,Deodorant,to your body
+412,Deoderant can typically be used to combat foul odors. When is this possible?,The deoderant has great smell,31.0,8.0,39.0,52.0,x,,has,great smell,
+413,Deoderant can typically be used to combat foul odors. When is this possible?,You smell bad,0.0,16.0,16.0,32.0,x,,smell,bad,
+414,You can typically use spade for digging. When is this possible?,You are digging in dirt.,0.0,2.0,2.0,9.0,x,,digging,,
+415,You can typically use spade for digging. When is this possible?,The ground is soft.,0.0,1.0,1.0,32.0,x,,is,The ground,soft
+416,You can typically use spade for digging. When is this possible?,When the soil is soft.,0.0,6.0,6.0,26.0,x,,is,the soil,soft
+417,You can typically use spade for digging. When is this possible?,"Using a spade shovel is possible  when used in gardening  applications,.",0.0,9.0,9.0,40.0,x,,is,Using a spade shovel,possible
+418,You can typically use spade for digging. When is this possible?,When you are digging in the sand on a beach.,0.0,4.0,4.0,15.0,x,,digging,,
+419,Fire extinguisher is typically used for extinguishing fires. When is this impossible?,The fire is a huge forest fire.,1.0,1.0,2.0,9.0,x,,is,The fire,a huge forest fire
+420,Fire extinguisher is typically used for extinguishing fires. When is this impossible?,When the fire extinguisher has been burnt.,0.0,3.0,3.0,36.0,x,,been,the fire extinguisher,burnt
+421,Fire extinguisher is typically used for extinguishing fires. When is this impossible?,The fire extinguisher is empty.,0.0,1.0,1.0,14.0,x,,is,The fire extinguisher,empty
+422,Fire extinguisher is typically used for extinguishing fires. When is this impossible?,The fire extinguisher is expired. ,0.0,2.0,2.0,20.0,x,,is,The fire extinguisher,expired
+423,Fire extinguisher is typically used for extinguishing fires. When is this impossible?,big forests catch fire,0.0,41.0,41.0,16.0,x,,catch,fire,
+424,General ledger can typically be used for tracking profit. When is this impossible?,When your business is in the black market and a general ledger could be used as evidence in your trial.,0.0,5.0,5.0,50.0,x,,used,a general ledger,as evidence in your trial
+425,General ledger can typically be used for tracking profit. When is this impossible?,You are busy.,0.0,71.0,71.0,23.0,x,,are,You,busy
+426,General ledger can typically be used for tracking profit. When is this impossible?,The ledger is lost.,0.0,1.0,1.0,8.0,x,,lost,The ledger,
+427,General ledger can typically be used for tracking profit. When is this impossible?,The ledger is inaccurate.,0.0,10.0,10.0,15.0,x,,is,The ledger,inaccurate
+428,General ledger can typically be used for tracking profit. When is this impossible?, general ledger is unfit,124.0,42.0,166.0,133.0,x,,is,general ledger,unfit
+429,General ledger can typically be used for tracking profit. When is this impossible?,The ledger is unreadable.,0.0,11.0,11.0,23.0,x,,is,The ledger,unreadable
+430,You can typically use laser for eye surgery. When is this possible?,When you have the money to afford laser.,0.0,25.0,25.0,13.0,x,,have,the money to afford laser,
+431,You can typically use laser for eye surgery. When is this possible?,The laser is used by a doctor.,0.0,10.0,10.0,7.0,x,,used,The laser,
+432,You can typically use laser for eye surgery. When is this possible?,You have eye surgery.,0.0,6.0,6.0,16.0,x,,have,eye surgery,
+433,You can typically use laser for eye surgery. When is this possible?,eye surgery should be done by a good laser technician,30.0,8.0,38.0,63.0,x,,done,eye surgery,
+434,You can typically use laser for eye surgery. When is this possible?,You have impaired vision.,0.0,4.0,4.0,37.0,x,,have,impaired vision,
+435,Knife can typically be used in fighting. When is this impossible?,The person you are fighting has a gun.,0.0,2.0,2.0,8.0,x,,has,a gun,
+436,Knife can typically be used in fighting. When is this impossible?,When the knife is a butter knife with a dull blade.,0.0,2.0,2.0,32.0,x,,is,the knife,a butter knife with a dull blade
+437,Knife can typically be used in fighting. When is this impossible?,when many other weapons are available,14.0,16.0,30.0,56.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,are,many other weapons,available
+438,Knife can typically be used in fighting. When is this impossible?,The knife is very dull.,0.0,1.0,1.0,35.0,x,,is,The knife,very dull
+439,You can typically use self adhesive label for labelling things. When is this impossible?,You want to categories the things.,0.0,73.0,73.0,23.0,x,,want,to categories the things,
+440,You can typically use self adhesive label for labelling things. When is this impossible?,when the self adhesive label runs out of glue,0.0,16.0,16.0,23.0,x,,runs,the self adhesive label,of glue
+441,You can typically use self adhesive label for labelling things. When is this impossible?,The things are wet.,0.0,5.0,5.0,9.0,x,,are,The things,wet
+442,You can typically use self adhesive label for labelling things. When is this impossible?,When labelling things that are wet.,0.0,2.0,2.0,13.0,x,,labelling,things that are wet,
+443,You can typically use self adhesive label for labelling things. When is this impossible?,The adhesive is dirty.,0.0,1.0,1.0,13.0,x,,is,The adhesive,dirty
+444,Shopping can typically be used when preparing to cook meal. When is this possible?,You are looking for some cooking ingredients.,0.0,18.0,18.0,28.0,x,,looking,for some cooking ingredients,
+445,Shopping can typically be used when preparing to cook meal. When is this possible?,You are going to the grocery store.,0.0,1.0,1.0,12.0,x,,going,,
+446,Shopping can typically be used when preparing to cook meal. When is this possible?,there has less vegetables,38.0,3.0,41.0,62.0,x,,has,less vegetables,
+447,Shopping can typically be used when preparing to cook meal. When is this possible?,You are out of groceries. ,0.0,7.0,7.0,27.0,x,,are,You,out of groceries
+448,Shopping can typically be used when preparing to cook meal. When is this possible?,You need ingredients for your meal.,11.0,1.0,12.0,13.0,x,,need,ingredients for your meal,
+449,Shopping can typically be used when preparing to cook meal. When is this possible?,when enough cash is available,11.0,9.0,20.0,34.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,enough cash,available
+450,Getting wet can typically be used when taking shower. When is this impossible?,the shower gets blocked,15.0,12.0,27.0,32.0,x,,gets,the shower,blocked
+451,Getting wet can typically be used when taking shower. When is this impossible?,You are in the ocean.,0.0,2.0,2.0,14.0,x,,are,You,in the ocean
+452,Knife can typically be used for hurting opponent. When is this possible?,The knife stabs the opponent.,,1.0,1.0,20.0,x,,,,
+453,Knife can typically be used for hurting opponent. When is this possible?,knife is sharp,2.0,8.0,10.0,11.0,x,,is,knife,sharp
+454,Knife can typically be used for hurting opponent. When is this possible?,The knife is sharp.,4.0,2.0,6.0,7.0,x,,is,The knife,sharp
+455,Knife can typically be used for hurting opponent. When is this possible?,Knife is sharp and pointed.,0.0,2.0,2.0,17.0,x,,is,Knife,sharp and pointed
+456,Knife can typically be used for hurting opponent. When is this possible?,When the knife is used to stab somebody.,,3.0,3.0,17.0,x,,is,the knife,used to stab somebody
+457,Barbecue restaurant can typically be used for good grilled food. When is this impossible?,The restaurant is closed for business.,0.0,6.0,6.0,43.0,x,,is,The restaurant,closed
+458,Barbecue restaurant can typically be used for good grilled food. When is this impossible?,when the fuel in the restaurant is over,0.0,20.0,20.0,26.0,x,,is,the fuel in the restaurant,over
+459,Barbecue restaurant can typically be used for good grilled food. When is this impossible?,The restaurant is closed due to health violations.,1.0,1.0,2.0,13.0,x,,is,The restaurant,closed
+460,Barbecue restaurant can typically be used for good grilled food. When is this impossible?,The barbecue restaurant violated health codes.,0.0,1.0,1.0,24.0,x,,violated,health codes,
+461,Barbecue restaurant can typically be used for good grilled food. When is this impossible?,You are at a normal hotel,0.0,20.0,20.0,26.0,x,,are,You,at a normal hotel
+462,Barbecue restaurant can typically be used for good grilled food. When is this impossible?,When the grill remains cold.,0.0,1.0,1.0,56.0,x,,remains,the grill,
+463,Canoe can typically be used to have fun on vacation. When is this impossible?,You are vacationing in the desert. ,,1.0,1.0,27.0,x,,vacationing,,
+464,Canoe can typically be used to have fun on vacation. When is this impossible?,The canoe has a hole in the bottom.,28.0,2.0,30.0,40.0,x,,has,a hole,
+465,Canoe can typically be used to have fun on vacation. When is this impossible?,When the river is dried up,0.0,2.0,2.0,18.0,x,,is,the river,dried up
+466,Canoe can typically be used to have fun on vacation. When is this impossible?,When you have a vacation on a ski resort.,23.0,3.0,26.0,29.0,x,,have,a vacation on a ski resort,
+467,Canoe can typically be used to have fun on vacation. When is this impossible?,when the canoe does not have a paddle,0.0,43.0,43.0,20.0,,[Rule 5 Violation] Avoid using negative language.,have,a paddle,
+468,Trash can typically be used for disposing of unwanted materials. When is this impossible?,if wanted materials go to trash,105.0,33.0,138.0,116.0,x,,go,materials,to trash
+469,Trash can typically be used for disposing of unwanted materials. When is this impossible?,Unwanted materials are very large.,0.0,18.0,18.0,23.0,x,,are,Unwanted materials,very large
+470,Trash can typically be used for disposing of unwanted materials. When is this impossible?,"When the materials are too dangerous for the trash can, flammable, nuclear, etc.",114.0,9.0,123.0,148.0,x,,are,the materials,too dangerous
+471,Trash can typically be used for disposing of unwanted materials. When is this impossible?,The unwanted materials are hazardous.,17.0,2.0,19.0,22.0,x,,are,The unwanted materials,hazardous
+472,Trash can typically be used for disposing of unwanted materials. When is this impossible?,trash is broken,0.0,30.0,30.0,18.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,broken,trash,
+473,Trash can typically be used for disposing of unwanted materials. When is this impossible?,When the trash bin is not available,18.0,30.0,48.0,39.0,,[Rule 5 Violation] Avoid using negative language.,is,the trash bin,available
+474,Trash can typically be used for disposing of unwanted materials. When is this impossible?,The trash can is full.,0.0,1.0,1.0,8.0,x,,is,The trash,full
+475,Drop of blood can typically be used for looking at with microscope. When is this possible?,When there is enough light in the room to see through the microscope.,0.0,26.0,26.0,30.0,x,,is,enough light in the room to see through the microscope,
+476,Drop of blood can typically be used for looking at with microscope. When is this possible?,the microscope should have good lenses,13.0,24.0,37.0,35.0,x,,have,good lenses,
+477,Drop of blood can typically be used for looking at with microscope. When is this possible?,The blood is a test sample in a lab.,0.0,1.0,1.0,24.0,x,,is,The blood,a test sample in a lab
+478,Drop of blood can typically be used for looking at with microscope. When is this possible?,When examine red blood cells in a blood sample.,27.0,1.0,28.0,30.0,x,,examine,red blood cells,
+479,Drop of blood can typically be used for looking at with microscope. When is this possible?,You are a scientist.,0.0,4.0,4.0,5.0,x,,are,You,a scientist
+480,Store refrigerator can typically be used for storing cream. When is this possible?,Refrigerator is properly cooling,0.0,3.0,3.0,29.0,x,,is,Refrigerator,properly cooling
+481,Store refrigerator can typically be used for storing cream. When is this possible?,the refrigerator should be in good condition,7.0,9.0,16.0,27.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,be,the refrigerator,in good condition
+482,Store refrigerator can typically be used for storing cream. When is this possible?,Store refigerator is plugged in to power source.,38.0,3.0,41.0,61.0,x,,plugged,Store refigerator,
+483,Store refrigerator can typically be used for storing cream. When is this possible?,Store refrigerator is in good condition.,0.0,341.0,341.0,24.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,Store refrigerator,in good condition
+484,Store refrigerator can typically be used for storing cream. When is this possible?,The refrigerator is plugged into power.,0.0,6.0,6.0,11.0,x,,is,The refrigerator,plugged into power
+485,Receiving degree can typically be used for graduating. When is this possible?,the person needs qualification,1.0,8.0,9.0,83.0,x,,needs,qualification,
+486,Receiving degree can typically be used for graduating. When is this possible?,when you graduate,,38.0,38.0,22.0,x,,graduate,,
+487,Receiving degree can typically be used for graduating. When is this possible?,When you complete all of the courses.,0.0,1.0,1.0,21.0,x,,complete,all of the courses,
+488,Receiving degree can typically be used for graduating. When is this possible?,When you are receiving a degree after completing university.,0.0,13.0,13.0,19.0,x,,receiving,a degree,
+489,Receiving degree can typically be used for graduating. When is this possible?,When you have meet the college or university academic requirements to earn the degree and then graduate.,45.0,7.0,52.0,54.0,x,,meet,the college or university academic requirements,
+490,Grasper can typically be used for reaching things. When is this possible?,When the things someone is reaching for are close enough for the grasper to reach.,41.0,2.0,43.0,45.0,x,,are,the things someone is reaching for,close enough for the grasper to reach
+491,Grasper can typically be used for reaching things. When is this possible?,You are searching for something.,0.0,68.0,68.0,23.0,x,,searching,for something,
+492,Grasper can typically be used for reaching things. When is this possible?,When you are low down and need to reach something for a shelf up high.,0.0,12.0,12.0,23.0,x,,need,to reach something for a shelf up high,
+493,Grasper can typically be used for reaching things. When is this possible?,grasper is in good condition,0.0,31.0,31.0,13.0,,[Rule 4 Violation] Avoid using general responses that are not specific to the prompt.,is,grasper,in good condition
+494,Grasper can typically be used for reaching things. When is this possible?,The things are out of reach.,0.0,5.0,5.0,15.0,x,,are,The things,out of reach
+495,Grasper can typically be used for reaching things. When is this possible?,When items are within an arms length ,0.0,9.0,9.0,47.0,x,,are,items,within an arms length
+496,Backyard can typically be used for having parties. When is this impossible?,there has less friends,0.0,1.0,1.0,40.0,x,,has,less friends,
+497,Backyard can typically be used for having parties. When is this impossible?,Backyard is abondoned for long time.,0.0,79.0,79.0,36.0,x,,is,Backyard,abondoned
+498,Backyard can typically be used for having parties. When is this impossible?,It is raining in the backyard.,1.0,1.0,2.0,14.0,,[Rule 1 Violation] You should not use pronouns for referring to objects and should only use pronouns for referring to humans.,is,It,raining in the backyard
+499,Backyard can typically be used for having parties. When is this impossible?,Having parties in the backyard is impossible during a thunderstorm.,0.0,2.0,2.0,16.0,x,,is,Having parties in the backyard,impossible
+500,Backyard can typically be used for having parties. When is this impossible?,you should have enough space in backyard,0.0,7.0,7.0,51.0,x,,have,enough space in backyard,
+501,Reading can typically be used for symbolic transfer of information. When is this impossible?,When you are blind.,0.0,2.0,2.0,5.0,x,,are,you,blind
+502,Reading can typically be used for symbolic transfer of information. When is this impossible?,You are reading a foreign language.,0.0,2.0,2.0,11.0,x,,reading,a foreign language,
+503,Reading can typically be used for symbolic transfer of information. When is this impossible?,the words used are tough,18.0,15.0,33.0,68.0,x,,are,the words used,tough
+504,Reading can typically be used for symbolic transfer of information. When is this impossible?,The text is in another language.,10.0,15.0,25.0,27.0,x,,is,The text,in another language
+505,Reading can typically be used for symbolic transfer of information. When is this impossible?,You study with whole concentration,0.0,9.0,9.0,21.0,x,,study,,
